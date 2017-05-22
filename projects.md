@@ -14,7 +14,7 @@
 
 ###### Nerdmanship Projects and Experiments
 
-> *All code. No video files. No image files. Virtually no loading time.*
+> *All code. No video files. No image files. No loading time.*
 
 
 # Featured
@@ -49,14 +49,12 @@ A personal experiment that was picked up by Firefox and used in the process of d
 
 <img src="https://carrrs.com/wp-content/uploads/2015/04/placeholder-1000x400.png">
 
-| Category | Total weight | Length | Interactive | Mobile | Responsive | Old Browsers |
-| :-------- | :-----: | :-----: | :-----: | :-----: |  :-----: | :-----: |
-| Animated Header | 46 kB | 7s | Yes | Yes | Yes | IE6 |
-
-The hero in this interactive exploration is the cute little driod BB8 from Starwars – The Force Awakens. It was the result of...  Trended as most popular project on Codepen.io. Featured in Codepen Spark twice. +100 retweets.
+| Category | Size | Length | Interactive | Comment |
+| :-------- | :--------------------: | :---------------------: | :--------------------:| :--------------------|
+| Interactive Experiment | 46kB | Looping | Yes | Trended as most popular project on Codepen.io. Featured in Codepen Spark twice. +100 retweets.
 
 > #### "This is such solid work from Nerdmanship! May the fourth be with you!"
-> **Sarah Drasner** – World leading writer, speaker and influencer of web animation
+> **Sarah Drasner** – World leading writer, speaker and influencer in SVG and web animation
 
 #### [>> View project details][bb8]
 
@@ -154,7 +152,7 @@ Interactive Experiment. Why did I do it? Successes? Use keyboard to type. [>>Vie
 
 
 
-### Bob the Crab
+## Bob the Crab
 
 <img src="https://carrrs.com/wp-content/uploads/2015/04/placeholder-1000x400.png">
 
@@ -178,7 +176,7 @@ Summary for Hoylu [>>View project details][hoylu]
 
 
 
-### Apple Logo
+## Apple Logo
 
 <img src="https://carrrs.com/wp-content/uploads/2015/04/placeholder-1000x400.png">
 
@@ -190,7 +188,7 @@ Quick challenge: Create something interesting with little code. 20 minutes. Got 
 
 
 
-### Website Menu
+## Website Menu
 
 <img src="https://carrrs.com/wp-content/uploads/2015/04/placeholder-1000x400.png">
 
