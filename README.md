@@ -11,18 +11,18 @@
 
 
 
-![][firefox_img]
+
 
 | *Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers |
 | :-------- | :-----: | :-----: | :-----: | :-----: |  :-----: | :-----: |
-| Animation | 46 kB | 7s | 60 | 60 | ![][yes] | ![][yes] |
+
 
 A personal experiment that was picked up by Firefox and used in the process of developing their new browser onboarding experience. The experiment demonstrates how web animation could reinforce the core of Firefox's brand message – 'Freedom' – by allowing the user to soar over the landscape.
 
 > #### "Exactly what I've been imagining for a wow moment when users first open the browser."
 > **Sevaan Franks** – Staff Product/UX Design, Mozilla Firefox
 
-#### [View project details >>][firefox_details]
+
 
 
 
@@ -34,18 +34,18 @@ A personal experiment that was picked up by Firefox and used in the process of d
 
 
 
-![][bb8_img]
+
 
 | Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers* |
 | :-------- | :-----: | :-----: | :-----: | :-----: |  :-----: | :-----: |
-| Interactive | 46 kB | 7s | 60 | 60 | ![][yes] | ![][yes] |
+
 
 The hero in this interactive exploration is the cute little driod BB8 from Starwars – The Force Awakens. It was the result of...  Trended as most popular project on Codepen.io. Featured in Codepen Spark twice. +100 retweets.
 
 > #### "This is such solid work from Nerdmanship! May the fourth be with you!"
 > **Sarah Drasner** – World leading writer, speaker and influencer of web animation
 
-#### [>> View project details][bb8_details]
+
 
 
 
@@ -57,18 +57,18 @@ The hero in this interactive exploration is the cute little driod BB8 from Starw
 
 
 
-![][verdict_img]
+
 
 | Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers* |
 | :-------- | :-----: | :-----: | :-----: | :-----: |  :-----: | :-----: |
-| Animation | 46 kB | 7s | 60 | 60 | ![][yes] | ![][yes] |
+
 
 Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app before and during real sports events. This violent website header shows superstars Nate Diaz and Conor McGregor beat the shit out of each other. It was made to make UFC fans froth in context of the main use case of the app – to score fights in real time.
 
 > #### "Quote"
 > **Person** – Title
 
-#### [>> View project details][verdict_details]
+
 
 
 
@@ -84,15 +84,7 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
   * [Project]()
   * [Project]()
 * All
-  * [kodama][kodama]
-  * [kaonashi](#kaonashi)
-  * [wecon][wecon]
-  * [dmss][dmss]
-  * [kinetic][kinetic]
-  * [bob][bob]
-  * [hoylu][hoylu]
-  * [apple][apple]
-  * [menu][menu]
+
   * Random Rocky *(Coming soon)*
   * Cinematic intro *(Coming soon)*
   * Particle buttons *(Coming soon)*
@@ -105,9 +97,9 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 ### An Interactive Tribute To Hayao Miyazaki
 
-![][kodama_img]
 
-Interactive Experiment Featured in Codepen Spark and Web Animation Weekly. Why did I do it? Successes? Parallax layers with mouse movement. [View project details >>][kodama]
+
+
 
 
 
@@ -117,9 +109,9 @@ Interactive Experiment Featured in Codepen Spark and Web Animation Weekly. Why d
 
 ### Kaonashi
 
-![][kaonashi_img]
 
-Interactive Experiment Why did I do it? Successes? The character's attention follows your mouse around. [View project details >>][kaonashi]
+
+
 
 
 
@@ -129,9 +121,9 @@ Interactive Experiment Why did I do it? Successes? The character's attention fol
 
 ### Line art animation for We Construction
 
-![][wecon_img]
 
-Summary for We Con [View project details >>][wecon]
+
+
 
 
 
@@ -143,9 +135,9 @@ Summary for We Con [View project details >>][wecon]
 
 ### Interactive Logo Animation for DMSS Conference
 
-![][dmss_img]
 
-Summary for DMSS [View project details >>][dmss]
+
+
 
 
 
@@ -158,9 +150,9 @@ Summary for DMSS [View project details >>][dmss]
 
 ### Kinetic type
 
-![][kinetic_img]
 
-Interactive Experiment. Why did I do it? Successes? Use keyboard to type. [View project details >>][kinetic]
+
+
 
 
 
@@ -170,9 +162,9 @@ Interactive Experiment. Why did I do it? Successes? Use keyboard to type. [View 
 
 ### Bob the Crab
 
-![][bob_img]
 
-Interactive Experiment Why did I do it? Successes? Control with buttons. Featured on front page of Codepen.io. [View project details >>][bob]
+
+
 
 
 
@@ -182,9 +174,9 @@ Interactive Experiment Why did I do it? Successes? Control with buttons. Feature
 
 ### Anticipation site for Hoylu
 
-![][hoylu_img]
 
-Summary for Hoylu [View project details >>][hoylu]
+
+
 
 
 
@@ -194,9 +186,9 @@ Summary for Hoylu [View project details >>][hoylu]
 
 ### Apple Logo
 
-![][apple_img]
 
-Quick challenge: Create something interesting with little code. 20 minutes. Got published on the front page of Codepen.io. [View project details >>][apple]
+
+
 
 
 
@@ -206,9 +198,9 @@ Quick challenge: Create something interesting with little code. 20 minutes. Got 
 
 ### Website Menu
 
-![][menu_img]
 
-I intend to make more UI elements, but this far my focus has been on storytelling. Tracking data, allows me to learn from... x interactions since feb. [View project details >>][menu]
+
+
 
 
 
