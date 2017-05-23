@@ -5,7 +5,7 @@
 [firefox_img]: /assets/images/projects/firefox.png
 
 [bb8_animation]: https://nerdmanship.github.io/bb8/dist/
-[bb8_details]: /pages/bb8.html
+[bb8_details]: /assets/markdown/bb8.md
 [bb8_img]: /assets/images/projects/bb8.png
 
 [verdict_details]: /pages/verdict.html
@@ -47,7 +47,7 @@
 
 ![][firefox_img]
 
-| Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers* |
+| *Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers |
 | :-------- | :-----: | :-----: | :-----: | :-----: |  :-----: | :-----: |
 | Animation | 46 kB | 7s | 60 | 60 | ![][yes] | ![][yes] |
 
