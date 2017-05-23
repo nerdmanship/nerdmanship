@@ -15,7 +15,7 @@
 
 | *Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers |
 | :-------- | :-----: | :-----: | :-----: | :-----: |  :-----: | :-----: |
-
+| Animation | 46 kB | 7s | 60 | 60 | ![][yes] | ![][yes] |
 
 A personal experiment that was picked up by Firefox and used in the process of developing their new browser onboarding experience. The experiment demonstrates how web animation could reinforce the core of Firefox's brand message – 'Freedom' – by allowing the user to soar over the landscape.
 
@@ -38,7 +38,7 @@ A personal experiment that was picked up by Firefox and used in the process of d
 
 | Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers* |
 | :-------- | :-----: | :-----: | :-----: | :-----: |  :-----: | :-----: |
-
+| Interactive | 46 kB | 7s | 60 | 60 | ![][yes] | ![][yes] |
 
 The hero in this interactive exploration is the cute little driod BB8 from Starwars – The Force Awakens. It was the result of...  Trended as most popular project on Codepen.io. Featured in Codepen Spark twice. +100 retweets.
 
@@ -61,7 +61,7 @@ The hero in this interactive exploration is the cute little driod BB8 from Starw
 
 | Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers* |
 | :-------- | :-----: | :-----: | :-----: | :-----: |  :-----: | :-----: |
-
+| Animation | 46 kB | 7s | 60 | 60 | ![][yes] | ![][yes] |
 
 Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app before and during real sports events. This violent website header shows superstars Nate Diaz and Conor McGregor beat the shit out of each other. It was made to make UFC fans froth in context of the main use case of the app – to score fights in real time.
 
