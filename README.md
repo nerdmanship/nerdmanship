@@ -83,7 +83,7 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 * All
   * [kodama][kodama]
-  
+  * [kaonashi](#kaonashi)
   * [wecon][wecon]
   * [dmss][dmss]
   * [kinetic][kinetic]
