@@ -26,7 +26,7 @@
       * ~~menu~~
       * ~~apple~~
   
-
+  * Make sure structure works
   * Merge to dev branch
   * Celebrate
 

@@ -1,7 +1,7 @@
 [placeholder]: https://carrrs.com/wp-content/uploads/2015/04/placeholder-1000x400.png  "Placeholder"
 
 [firefox_animation]: http://s.codepen.io/nerdmanship/debug/rrrajP
-[firefox_details]: /pages/firefox.html
+[firefox_details]: /assets/markdown/firefox
 [firefox_img]: /assets/images/projects/firefox.png
 
 [bb8_animation]: https://nerdmanship.github.io/bb8/dist/
