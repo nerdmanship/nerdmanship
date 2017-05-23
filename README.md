@@ -11,7 +11,7 @@
 
 
 
-![][firefox_img]
+
 
 | *Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers |
 | :-------- | :-----: | :-----: | :-----: | :-----: |  :-----: | :-----: |
@@ -22,7 +22,7 @@ A personal experiment that was picked up by Firefox and used in the process of d
 > #### "Exactly what I've been imagining for a wow moment when users first open the browser."
 > **Sevaan Franks** – Staff Product/UX Design, Mozilla Firefox
 
-#### [View project details >>][firefox_details]
+
 
 
 
@@ -34,7 +34,7 @@ A personal experiment that was picked up by Firefox and used in the process of d
 
 
 
-![][bb8_img]
+
 
 | Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers* |
 | :-------- | :-----: | :-----: | :-----: | :-----: |  :-----: | :-----: |
@@ -45,7 +45,7 @@ The hero in this interactive exploration is the cute little driod BB8 from Starw
 > #### "This is such solid work from Nerdmanship! May the fourth be with you!"
 > **Sarah Drasner** – World leading writer, speaker and influencer of web animation
 
-#### [>> View project details][bb8_details]
+
 
 
 
@@ -57,7 +57,7 @@ The hero in this interactive exploration is the cute little driod BB8 from Starw
 
 
 
-![][verdict_img]
+
 
 | Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers* |
 | :-------- | :-----: | :-----: | :-----: | :-----: |  :-----: | :-----: |
@@ -68,7 +68,7 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 > #### "Quote"
 > **Person** – Title
 
-#### [>> View project details][verdict_details]
+
 
 
 
@@ -80,12 +80,10 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 ### Complete list
 
 * Featured
-  * [Project]()
-  * [Project]()
-  * [Project]()
+
 * All
   * [kodama][kodama]
-  * [kaonashi](#kaonashi)
+  
   * [wecon][wecon]
   * [dmss][dmss]
   * [kinetic][kinetic]
