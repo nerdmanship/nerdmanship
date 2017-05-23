@@ -1,1 +1,0 @@
-###### Nerdmanship Projects and Experiments
