@@ -107,7 +107,7 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 
 
-
+Interactive Experiment Featured in Codepen Spark and Web Animation Weekly. Why did I do it? Successes? Parallax layers with mouse movement. [View project details >>][kodama]
 
 
 
@@ -119,7 +119,7 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 
 
-
+Interactive Experiment Why did I do it? Successes? The character's attention follows your mouse around. [View project details >>][kaonashi]
 
 
 
@@ -131,7 +131,7 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 
 
-
+Summary for We Con [View project details >>][wecon]
 
 
 
@@ -145,7 +145,7 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 
 
-
+Summary for DMSS [View project details >>][dmss]
 
 
 
@@ -160,7 +160,7 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 
 
-
+Interactive Experiment. Why did I do it? Successes? Use keyboard to type. [View project details >>][kinetic]
 
 
 
@@ -172,7 +172,7 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 
 
-
+Interactive Experiment Why did I do it? Successes? Control with buttons. Featured on front page of Codepen.io. [View project details >>][bob]
 
 
 
@@ -184,7 +184,7 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 
 
-
+Summary for Hoylu [View project details >>][hoylu]
 
 
 
@@ -196,7 +196,7 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 
 
-
+Quick challenge: Create something interesting with little code. 20 minutes. Got published on the front page of Codepen.io. [View project details >>][apple]
 
 
 
@@ -208,7 +208,7 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 
 
-
+I intend to make more UI elements, but this far my focus has been on storytelling. Tracking data, allows me to learn from... x interactions since feb. [View project details >>][menu]
 
 
 
