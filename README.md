@@ -45,7 +45,7 @@
 ### Featured
 
 
-# ⚡️ ⚡️ Firefox Website Intro
+# ⚡️ Firefox Website Intro
 
 ![][firefox_img]
 
