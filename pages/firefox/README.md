@@ -6,7 +6,7 @@
 [firefox-twitter]: /assets/images/projects/firefox-twitter.png
 [firefox-official]: /assets/images/projects/firefox-official.gif
 
-# A Prototype that made it all the way to Firefox
+# A Prototype That Made It All The Way To Firefox
 
 (Sept 2016)
 
