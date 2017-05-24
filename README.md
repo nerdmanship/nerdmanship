@@ -1,3 +1,37 @@
+[placeholder]: https://carrrs.com/wp-content/uploads/2015/04/placeholder-1000x400.png  "Placeholder"
+
+[firefox_animation]: http://s.codepen.io/nerdmanship/debug/rrrajP
+[firefox_details]: /assets/markdown/firefox
+[firefox_img]: /assets/images/projects/firefox.png
+
+[bb8_animation]: https://nerdmanship.github.io/bb8/dist/
+[bb8_details]: /assets/markdown/bb8.md
+[bb8_img]: /assets/images/projects/bb8.png
+
+[verdict_details]: /pages/verdict.html
+[verdict_img]: /assets/images/projects/verdict.png
+
+[wecon]: https://nerdmanship.github.io/WeCon/dist/
+[wecon_img]: /assets/images/projects/wecon.png
+[dmss]: https://nerdmanship.github.io/DMSS-Logo-animation/dist/
+[dmss_img]: /assets/images/projects/dmss.png
+[hoylu]: https://nerdmanship.github.io/hoylu/
+[hoylu_img]: /assets/images/projects/hoylu.png
+[kaonashi]: http://codepen.io/nerdmanship/full/RpoYOL/
+[kaonashi_img]: /assets/images/projects/kaonashi.png
+[kodama]: https://nerdmanship.github.io/kodamaProject/dist/
+[kodama_img]: /assets/images/projects/kodama.png
+[kinetic]: http://s.codepen.io/nerdmanship/debug/WGzGVy
+[kinetic_img]: /assets/images/projects/kinetic.png
+[bob]: http://s.codepen.io/nerdmanship/debug/YqdgvG
+[bob_img]: /assets/images/projects/bob.png
+[menu]: http://s.codepen.io/nerdmanship/debug/YNEggb
+[menu_img]: /assets/images/projects/menu.png
+[apple]: http://codepen.io/nerdmanship/full/dNRbvQ/
+[apple_img]: /assets/images/projects/apple.png
+
+[no]: /assets/images/projects/no.png
+[yes]: /assets/images/projects/yes.png
 
 ###### Nerdmanship Projects and Experiments
 
@@ -85,7 +119,7 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
   * [Project]()
 * All
   * [kodama][kodama]
-  * [kaonashi](#kaonashi)
+  * [kaonashi][kaonashi]
   * [wecon][wecon]
   * [dmss][dmss]
   * [kinetic][kinetic]
