@@ -14,16 +14,16 @@ Make a simple and functional, yet good looking projects page that can live a lon
 ---
 # RESEARCH
 
-* Gather Firefox content – DONE
-  * Tech spec – DONE
-  * Images – DONE
-  * Texts from facebook – DONE
-
-
 * Get tech specs of featured project
+  * Verdict
 
 ---
 # CONTENT
+
+* Add Firefox project – DONE
+  * Tech spec – DONE
+  * Images – DONE
+  * Texts from facebook – DONE
 
 * Update link to beta website
 
