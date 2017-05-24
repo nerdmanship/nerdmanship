@@ -1,6 +1,6 @@
 [placeholder]: https://carrrs.com/wp-content/uploads/2015/04/placeholder-1000x400.png  "Placeholder"
 
-[firefox_project]: bad/link
+[firefox_project]: /pages/firefox/README.md
 [firefox_img]: /assets/images/projects/firefox.png
 
 
@@ -52,7 +52,7 @@ A personal experiment that was picked up by Firefox and used in the process of d
 > #### "Exactly what I've been imagining for a wow moment when users first open the browser."
 > **Sevaan Franks** – Staff Product/UX Design, Mozilla Firefox
 
-#### [Full project][firefox_project]
+### [Full project][firefox_project]
 
 
 
