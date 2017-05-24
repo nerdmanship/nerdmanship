@@ -39,7 +39,7 @@
 
 
 
-# ⚡️ Firefox Website Intro
+# Firefox Website Intro
 
 ![][firefox_img]
 
@@ -62,7 +62,7 @@ A personal experiment that was picked up by Firefox and used in the process of d
 
 
 
-# ⚡️ Starwars Animation
+# Starwars Animation
 
 ![][bb8_img]
 
@@ -85,7 +85,7 @@ The hero in this interactive exploration is the cute little driod BB8 from Starw
 
 
 
-# ⚡️ Verdict MMA App Promotion
+# Verdict MMA App Promotion
 
 ![][verdict_img]
 
