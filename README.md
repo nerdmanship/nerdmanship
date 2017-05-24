@@ -52,7 +52,7 @@ A personal experiment that was picked up by Firefox and used in the process of d
 > #### "Exactly what I've been imagining for a wow moment when users first open the browser."
 > **Sevaan Franks** – Staff Product/UX Design, Mozilla Firefox
 
-#### [View project details >>]()
+
 
 
 
@@ -75,7 +75,7 @@ The hero in this interactive exploration is the cute little driod BB8 from Starw
 > #### "This is such solid work from Nerdmanship! May the fourth be with you!"
 > **Sarah Drasner** – World leading writer, speaker and influencer of web animation
 
-#### [>> View project details]()
+
 
 
 
@@ -98,7 +98,7 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 > #### "Quote"
 > **Person** – Title
 
-#### [>> View project details]()
+
 
 
 
