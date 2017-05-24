@@ -1,34 +1,41 @@
+[//]: # (Pages)
+
+[firefox_project]: /pages/firefox/
+[bb8_project]: /pages/bb8/
+[verdict_project]: /pages/verdict/
+
+[//]: # (Images)
+
 [placeholder]: https://carrrs.com/wp-content/uploads/2015/04/placeholder-1000x400.png  "Placeholder"
-
-[firefox_project]: /pages/firefox/README.md
 [firefox_img]: /assets/images/projects/firefox.png
-
-
 [bb8_img]: /assets/images/projects/bb8.png
-
 [verdict_img]: /assets/images/projects/verdict.png
-
-[wecon]: https://nerdmanship.github.io/WeCon/dist/
 [wecon_img]: /assets/images/projects/wecon.png
-[dmss]: https://nerdmanship.github.io/DMSS-Logo-animation/dist/
 [dmss_img]: /assets/images/projects/dmss.png
-[hoylu]: https://nerdmanship.github.io/hoylu/
 [hoylu_img]: /assets/images/projects/hoylu.png
-[kaonashi]: http://codepen.io/nerdmanship/full/RpoYOL/
 [kaonashi_img]: /assets/images/projects/kaonashi.png
-[kodama]: https://nerdmanship.github.io/kodamaProject/dist/
 [kodama_img]: /assets/images/projects/kodama.png
-[kinetic]: http://s.codepen.io/nerdmanship/debug/WGzGVy
 [kinetic_img]: /assets/images/projects/kinetic.png
-[bob]: http://s.codepen.io/nerdmanship/debug/YqdgvG
 [bob_img]: /assets/images/projects/bob.png
-[menu]: http://s.codepen.io/nerdmanship/debug/YNEggb
 [menu_img]: /assets/images/projects/menu.png
-[apple]: http://codepen.io/nerdmanship/full/dNRbvQ/
 [apple_img]: /assets/images/projects/apple.png
-
 [no]: /assets/images/projects/no.png
 [yes]: /assets/images/projects/yes.png
+
+[//]: # (Animations)
+[firefox]: http://s.codepen.io/nerdmanship/debug/rrrajP
+[bb8]: https://nerdmanship.github.io/bb8/dist/
+[verdict]: https://nerdmanship.github.io/_verdict-module/dist/
+[wecon]: https://nerdmanship.github.io/WeCon/dist/
+[dmss]: https://nerdmanship.github.io/DMSS-Logo-animation/dist/
+[hoylu]: https://nerdmanship.github.io/hoylu/
+[kaonashi]: http://codepen.io/nerdmanship/full/RpoYOL/
+[kodama]: https://nerdmanship.github.io/kodamaProject/dist/
+[kinetic]: http://s.codepen.io/nerdmanship/debug/WGzGVy
+[bob]: http://s.codepen.io/nerdmanship/debug/YqdgvG
+[menu]: http://s.codepen.io/nerdmanship/debug/YNEggb
+[apple]: http://codepen.io/nerdmanship/full/dNRbvQ/
+
 
 ###### Nerdmanship Projects and Experiments
 
@@ -75,8 +82,7 @@ The hero in this interactive exploration is the cute little driod BB8 from Starw
 > #### "This is such solid work from Nerdmanship! May the fourth be with you!"
 > **Sarah Drasner** – World leading writer, speaker and influencer of web animation
 
-
-
+### [Full project][bb8_project]
 
 
 
@@ -98,7 +104,7 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 > #### "Quote"
 > **Person** – Title
 
-
+### [Full project][verdict_project]
 
 
 
@@ -106,12 +112,12 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 
 
-### Complete list
+### Complete list of projects
 
 * Featured
-  * [Project]()
-  * [Project]()
-  * [Project]()
+  * [firefox][firefox]
+  * [bb8][bb8]
+  * [verdict][verdict]
 * All
   * [kodama][kodama]
   * [kaonashi][kaonashi]
@@ -134,7 +140,7 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 ### An Interactive Tribute To Hayao Miyazaki
 
-
+![][kodama_img]
 
 Interactive Experiment Featured in Codepen Spark and Web Animation Weekly. Why did I do it? Successes? Parallax layers with mouse movement. [View project details >>][kodama]
 
@@ -146,7 +152,7 @@ Interactive Experiment Featured in Codepen Spark and Web Animation Weekly. Why d
 
 ### Kaonashi
 
-
+![][kaonashi_img]
 
 Interactive Experiment Why did I do it? Successes? The character's attention follows your mouse around. [View project details >>][kaonashi]
 
@@ -158,7 +164,7 @@ Interactive Experiment Why did I do it? Successes? The character's attention fol
 
 ### Line art animation for We Construction
 
-
+![][wecon_img]
 
 Summary for We Con [View project details >>][wecon]
 
@@ -172,7 +178,7 @@ Summary for We Con [View project details >>][wecon]
 
 ### Interactive Logo Animation for DMSS Conference
 
-
+![][dmss_img]
 
 Summary for DMSS [View project details >>][dmss]
 
@@ -187,7 +193,7 @@ Summary for DMSS [View project details >>][dmss]
 
 ### Kinetic type
 
-
+![][kinetic_img]
 
 Interactive Experiment. Why did I do it? Successes? Use keyboard to type. [View project details >>][kinetic]
 
@@ -199,7 +205,7 @@ Interactive Experiment. Why did I do it? Successes? Use keyboard to type. [View 
 
 ### Bob the Crab
 
-
+![][bob_img]
 
 Interactive Experiment Why did I do it? Successes? Control with buttons. Featured on front page of Codepen.io. [View project details >>][bob]
 
@@ -211,7 +217,7 @@ Interactive Experiment Why did I do it? Successes? Control with buttons. Feature
 
 ### Anticipation site for Hoylu
 
-
+![][hoylu_img]
 
 Summary for Hoylu [View project details >>][hoylu]
 
@@ -223,7 +229,7 @@ Summary for Hoylu [View project details >>][hoylu]
 
 ### Apple Logo
 
-
+![][apple_img]
 
 Quick challenge: Create something interesting with little code. 20 minutes. Got published on the front page of Codepen.io. [View project details >>][apple]
 
@@ -235,7 +241,7 @@ Quick challenge: Create something interesting with little code. 20 minutes. Got 
 
 ### Website Menu
 
-
+![][menu_img]
 
 I intend to make more UI elements, but this far my focus has been on storytelling. Tracking data, allows me to learn from... x interactions since feb. [View project details >>][menu]
 
