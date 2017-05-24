@@ -52,7 +52,7 @@ A personal experiment that was picked up by Firefox and used in the process of d
 > #### "Exactly what I've been imagining for a wow moment when users first open the browser."
 > **Sevaan Franks** – Staff Product/UX Design, Mozilla Firefox
 
-
+#### [View project details >>][firefox_animation]
 
 
 
