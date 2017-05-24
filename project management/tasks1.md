@@ -26,44 +26,6 @@
       * ~~menu~~
       * ~~apple~~
   
-  * Make sure structure works
-  * Merge to dev branch
-  * Celebrate
-
-
-## Next module
-
-* Small projects
-  * Write summaries
-
-* Featured projects
-  * Update tech specs in both 'projects' and 'individual'
-  * Write presentations to featured
-  * Sync content
-    * Title
-    * Meta
-    * Picture
-    * Project link
-    * Summary list
-    * Quotes – if any
-    * Tech
-    * About
-    * Follow
-
-* Flesh out the list
-* Final formatting
-
-
-
-
-
-
-
-
-
-
-
-# Future
-* Collect statements
-  * Jack Doyle at Greensock
-  * Chris Coyier
+  * ~~Make sure structure works~~
+  * ~~Merge to dev branch~~
+  * ~~Celebrate~~

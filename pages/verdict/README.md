@@ -10,7 +10,7 @@
 
 ![Picture][verdict-project_img]
 
-#### [Launch demo >>][verdict_animation]
+#### [Launch demo][verdict_animation]
 
 ## Summary
 
