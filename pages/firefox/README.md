@@ -8,7 +8,7 @@
 
 # Firefox
 
-<p><small>(Sept 2016)</small></p>
+(Sept 2016)
 
 ![Header][firefox-project_img]
 
