@@ -71,7 +71,7 @@ A personal experiment that was picked up by Firefox and used in the process of d
 
 ![][bb8_img]
 
-| Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers* |
+| *Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers |
 | :-------- | :-----: | :-----: | :-----: | :-----: |  :-----: | :-----: |
 | Interactive | 46 kB | 7s | 60 | 60 | ![][yes] | ![][yes] |
 
@@ -92,7 +92,7 @@ The hero in this interactive exploration is the cute little driod BB8 from Starw
 
 ![][verdict_img]
 
-| Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers* |
+| *Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers |
 | :-------- | :-----: | :-----: | :-----: | :-----: |  :-----: | :-----: |
 | Animation | 46 kB | 7s | 60 | 60 | ![][yes] | ![][yes] |
 
