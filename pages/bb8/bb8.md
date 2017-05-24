@@ -9,7 +9,7 @@
 
 ![Picture][bb8-project_img]
 
-#### [Launch demo >>][bb8_animation]
+#### [Launch demo][bb8_animation]
 
 ## Summary
 

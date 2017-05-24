@@ -9,7 +9,7 @@
 
 ![Picture][firefox-project_img]
 
-#### [Launch demo >>][firefox_animation]
+#### [Launch demo][firefox_animation]
 
 ## Summary
 
