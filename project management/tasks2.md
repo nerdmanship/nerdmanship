@@ -19,6 +19,7 @@ Make a simple and functional, yet good looking projects page that can live a lon
   * Images – DONE
   * Texts from facebook – DONE
 
+
 * Get tech specs of featured project
 
 ---

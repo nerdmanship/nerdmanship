@@ -51,7 +51,7 @@
 
 | *Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers |
 | :-------- | :-----: | :-----: | :-----: | :-----: |  :-----: | :-----: |
-| Animation | 46 kB | 7s | 60 | 60 | ![][yes] | ![][yes] |
+| Prototype | 52 kB | 6s | 60 | - | ![][no] | ![][no] |
 
 A personal experiment that was picked up by Firefox and used in the process of developing their new browser onboarding experience. The experiment demonstrates how web animation could reinforce the core of Firefox's brand message – 'Freedom' – by allowing the user to soar over the landscape.
 

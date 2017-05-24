@@ -6,7 +6,7 @@
 [firefox-twitter]: /assets/images/projects/firefox-twitter.png
 [firefox-official]: /assets/images/projects/firefox-official.gif
 
-# Firefox
+# A Prototype that made it all the way to Firefox
 
 (Sept 2016)
 
@@ -16,6 +16,8 @@
 
 ## Summary
 
+* One of my first personal prototypes, picked up and used by Firefox
+* Made to demonstrate brand storytelling values in web animation
 * Big innovative brands like Firefox see the great value in web animation
 * The novelty of web animation is a value in itself. It breaks the noise.
 
@@ -48,7 +50,7 @@ I shared it on Twitter and offered Firefox to sue my for copyright infringement.
 
 The prototype I made was experimenting with the main download page – which was 'suboptimal' UX-wise, as I wrote about in [the animation info][firefox_animation] – but Firefox had been wanting to use something similar in their onbaording experience where it made much more sense UX-wise.
 
-The prototype was used as a reference through-out the design process and in March 2017 their new onboarding experience was done.
+The prototype was used as a reference through-out the design process and in March 2017 their new onboarding experience was done. You see it live after downloading and launching Firefox:
 
 ![official-gif][firefox-official]
 
@@ -57,9 +59,9 @@ I'm very proud of my contribution and super happy to see big industry leaders re
 
 ---
 
-## Tech spec
+## Tech spec*
 
-| *Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers |
+| Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers |
 | :-------- | :-----: | :-----: | :-----: | :-----: |  :-----: | :-----: |
 | Prototype | 52 kB | 6s | 60 | - | ![][no] | ![][no] |
 
@@ -70,7 +72,7 @@ I'm very proud of my contribution and super happy to see big industry leaders re
 ### My favorite platform is [Twitter](http://www.twitter.com/stromqvist)
 
 * Curious creators and animation nerds get random updates on [the Nerdmanship Facebook Page](http://www.facebook.com/nerdmanship).
-* I'm more personal on [Twitter](http://www.twitter.com/stromqvist) where I share code and animation things that impress me.
+* I'm more personal on [Twitter](http://www.twitter.com/stromqvist) where I share things that impress me in animation and creative coding.
 * I share most projects on [Dribbble](http://www.dribbble.com/stromqvist) even tho they force me to degrade my projects to static imagery.
 * All my experiments get posted on [Codepen](http://www.codepen.io/nerdmanship). Let's connect there!
 * I send super occational updates to Nerdmanship friends. [Sign up](http://nerdmanship.us13.list-manage.com/subscribe/post?u=bed6727a7b59b995ae23ca252&id=706f47db11) on my friends list to get them!
@@ -80,3 +82,17 @@ I'm very proud of my contribution and super happy to see big industry leaders re
 ## License
 
 The code is available under the [MIT license](LICENSE.txt).
+
+---
+
+#### *
+
+|  | **What does the table mean?** |
+| :-------- | :----- |
+| **Category** | Distinguishing subdivision of all projects |
+| **Total weight** | Total file size of minified and compressed project including all dependencies |
+| **Length** | Amount of seconds the experience runs before stopping or looping |
+| **Fps** | Amount of frames rendered each second (max 60). An indicator on how well the code performs when tested on current version of the most common browsers. Most common **desktop** browser in North America is currently: [Chrome](http://gs.statcounter.com/browser-market-share/desktop/north-america/#monthly-201604-201704). Most common **mobile** browser in North America is currently: [Safari](http://gs.statcounter.com/browser-market-share/mobile/north-america/#monthly-201604-201704) |
+| **Responsive** | Animated/interactive content responds and adapts to the screen size of user's device |
+| **All Browser** | Project works on all currently supported versions of Chrome, Firefox, Safari, MS Internet Explorer and MS Edge |
+
