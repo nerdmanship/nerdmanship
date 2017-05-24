@@ -24,6 +24,7 @@ Make a simple and functional, yet good looking projects page that can live a lon
 
 * Small projects
   * Write summaries
+  * Write titles
 
 * Featured projects
   * Update tech specs in both 'projects' and 'individual'
