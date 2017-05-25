@@ -23,6 +23,7 @@
 [beta_img]: /assets/images/projects/beta.png
 
 [placeholder]: https://carrrs.com/wp-content/uploads/2015/04/placeholder-1000x400.png  "Placeholder"
+[spacer]: /assets/images/projects/spacer.png
 [header]: /assets/images/projects/nerdmanship-header.png
 [footer]: /assets/images/projects/nerdmanship-footer.png
 [no]: /assets/images/projects/no.png
@@ -48,6 +49,11 @@
 > **Nerdmanship Projects** – *All code. Virtually no loading time*
 
 
+
+![][spacer]
+
+
+
 # Top Three Featured Projects
 
 
@@ -68,11 +74,10 @@ A personal experiment that was picked up by Firefox and used in the process of d
 
 ### [Full project][firefox_project]
 
-
-
-
 ---
 
+
+![][spacer]
 
 
 # 2️⃣ 
@@ -92,10 +97,10 @@ The result of a new randomising animation technique I developed. Trended as most
 
 ### [Full project][bb8_project]
 
-
-
 ---
 
+
+![][spacer]
 
 
 # 3️⃣ 
@@ -115,9 +120,16 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 ### [Full project][verdict_project]
 
-
-
 ---
+
+
+![][spacer]
+
+
+![][spacer]
+
+
+
 
 ### All projects below
   * [An Interactive Tribute](#an-interactive-tribute) <- this one looks nice
@@ -134,6 +146,8 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 ---
 
 
+![][spacer]
+
 
 ### An Interactive Tribute
 
@@ -143,10 +157,10 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 [Launch project][kodama]
 
-
-
 ---
 
+
+![][spacer]
 
 
 ### Kaonashi The Corruptor
@@ -157,10 +171,10 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 [Launch project][kaonashi]
 
-
-
 ---
 
+
+![][spacer]
 
 
 ### Core Value Infused Logo Reveal
@@ -171,12 +185,10 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 [Launch project][wecon]
 
-
-
-
 ---
 
 
+![][spacer]
 
 
 ### Logotype And Button Interplay
@@ -187,13 +199,10 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 [Launch project][dmss]
 
-
-
-
 ---
 
 
-
+![][spacer]
 
 
 ### Paragraphs With Personality
@@ -204,10 +213,10 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 [Launch project][kinetic]
 
-
-
 ---
 
+
+![][spacer]
 
 
 ### The Manifestation Of A Crabby Pun
@@ -218,10 +227,10 @@ Bob was the very first experiment I made with code and was tragically born from 
 
 [Launch project][bob]
 
-
-
 ---
 
+
+![][spacer]
 
 
 ### Buzzword Randomiser
@@ -232,10 +241,10 @@ Bob was the very first experiment I made with code and was tragically born from 
 
 [Launch project][hoylu]
 
-
-
 ---
 
+
+![][spacer]
 
 
 ### Appealing Effect At Minimal Effort
@@ -246,10 +255,10 @@ This colorful fruit was a speed-challenge I gave my self. How fast could I make 
 
 [Launch project][apple]
 
-
-
 ---
 
+
+![][spacer]
 
 
 ### My Little Snitch
@@ -260,10 +269,11 @@ This colorful fruit was a speed-challenge I gave my self. How fast could I make 
 
 [Launch project][menu]
 
-
-
-
 ---
+
+
+![][spacer]
+
 
 ### Cinematic Website Intro
 
@@ -274,6 +284,9 @@ This website served as Nerdmanship-at-a-glance during my first year of research 
 [Launch project][beta]
 
 ---
+
+
+![][spacer]
 
 
 # ❤️ Let's be friends!
@@ -289,6 +302,10 @@ This website served as Nerdmanship-at-a-glance during my first year of research 
 ![][footer]
 
 ---
+
+
+![][spacer]
+
 
 #### *
 
