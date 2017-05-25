@@ -66,16 +66,16 @@ I learned a lot of valuable lessons and had many reusable insights doing this pr
 ---
 
 
-# Let's be friends!
 
-### Drop me a line at [johan@nerdmanship.com](mailto:johan@nerdmanship.com) or pick your favourite poison below
+# ❤️ Let's be friends!
 
-* Get nerdy animation updates on [the Nerdmanship Facebook Page](http://www.facebook.com/nerdmanship).
+### Drop me a line at [johan@nerdmanship.com](mailto:johan@nerdmanship.com) or pick your favourite poison below:
+
+* Get nerdy animation updates on the [Facebook Page](http://www.facebook.com/nerdmanship).
 * I share things that impress me on [Twitter](http://www.twitter.com/stromqvist).
 * I'm forced to degrade my projects on [Dribbble](http://www.dribbble.com/stromqvist).
 * All my experiments end up at [Codepen](http://www.codepen.io/nerdmanship).
 * I keep a friends list of emails too. [Sign up here](http://nerdmanship.us13.list-manage.com/subscribe/post?u=bed6727a7b59b995ae23ca252&id=706f47db11).
-
 
 ---
 

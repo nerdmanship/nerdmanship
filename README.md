@@ -271,11 +271,11 @@ This website served as Nerdmanship-at-a-glance during my first year of research 
 ---
 
 
-# Let's be friends!
+# ❤️ Let's be friends!
 
-### Drop me a line at [johan@nerdmanship.com](mailto:johan@nerdmanship.com) or pick your favourite poison below
+### Drop me a line at [johan@nerdmanship.com](mailto:johan@nerdmanship.com) or pick your favourite poison below:
 
-* Get nerdy animation updates on [the Nerdmanship Facebook Page](http://www.facebook.com/nerdmanship).
+* Get nerdy animation updates on the [Facebook Page](http://www.facebook.com/nerdmanship).
 * I share things that impress me on [Twitter](http://www.twitter.com/stromqvist).
 * I'm forced to degrade my projects on [Dribbble](http://www.dribbble.com/stromqvist).
 * All my experiments end up at [Codepen](http://www.codepen.io/nerdmanship).
