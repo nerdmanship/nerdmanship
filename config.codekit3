@@ -48,6 +48,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/images\/projects\/beta.png": {
+		"ft": 32768,
+		"iS": 31080,
+		"oA": 0,
+		"oAP": "\/dist\/assets\/images\/projects\/beta.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/images\/projects\/bob.png": {
 		"ft": 32768,
 		"iS": 28009,

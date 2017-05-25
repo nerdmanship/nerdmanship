@@ -19,6 +19,7 @@
 [bob_img]: /assets/images/projects/bob.png
 [menu_img]: /assets/images/projects/menu.png
 [apple_img]: /assets/images/projects/apple.png
+[beta_img]: /assets/images/projects/beta.png
 [no]: /assets/images/projects/no.png
 [yes]: /assets/images/projects/yes.png
 
@@ -35,6 +36,7 @@
 [bob]: http://s.codepen.io/nerdmanship/debug/YqdgvG
 [menu]: http://s.codepen.io/nerdmanship/debug/YNEggb
 [apple]: http://codepen.io/nerdmanship/full/dNRbvQ/
+[beta]: http://nerdmanship.github.io/beta.nerdmanship.com/public_html/
 
 
 ###### Nerdmanship Projects and Experiments
@@ -125,8 +127,8 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
   * [hoylu][hoylu]
   * [apple][apple]
   * [menu][menu]
+  * [beta][beta]
   * Random Rocky *(Coming soon)*
-  * Cinematic intro *(Coming soon)*
   * Particle buttons *(Coming soon)*
 
 
@@ -139,7 +141,9 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 ![][kodama_img]
 
-Interactive Experiment Featured in Codepen Spark and Web Animation Weekly. Why did I do it? Successes? Parallax layers with mouse movement. [View project details >>][kodama]
+Interactive Experiment Featured in Codepen Spark and Web Animation Weekly. Why did I do it? Successes? Parallax layers with mouse movement. 
+
+[Launch project][kodama]
 
 
 
@@ -151,7 +155,9 @@ Interactive Experiment Featured in Codepen Spark and Web Animation Weekly. Why d
 
 ![][kaonashi_img]
 
-Interactive Experiment Why did I do it? Successes? The character's attention follows your mouse around. [View project details >>][kaonashi]
+Interactive Experiment Why did I do it? Successes? The character's attention follows your mouse around. 
+
+[Launch project][kaonashi]
 
 
 
@@ -163,7 +169,9 @@ Interactive Experiment Why did I do it? Successes? The character's attention fol
 
 ![][wecon_img]
 
-Summary for We Con [View project details >>][wecon]
+Summary for We Con 
+
+[Launch project][wecon]
 
 
 
@@ -177,7 +185,9 @@ Summary for We Con [View project details >>][wecon]
 
 ![][dmss_img]
 
-Summary for DMSS [View project details >>][dmss]
+Summary for DMSS 
+
+[Launch project][dmss]
 
 
 
@@ -192,7 +202,9 @@ Summary for DMSS [View project details >>][dmss]
 
 ![][kinetic_img]
 
-Interactive Experiment. Why did I do it? Successes? Use keyboard to type. [View project details >>][kinetic]
+Interactive Experiment. Why did I do it? Successes? Use keyboard to type. 
+
+[Launch project][kinetic]
 
 
 
@@ -204,7 +216,9 @@ Interactive Experiment. Why did I do it? Successes? Use keyboard to type. [View 
 
 ![][bob_img]
 
-Interactive Experiment Why did I do it? Successes? Control with buttons. Featured on front page of Codepen.io. [View project details >>][bob]
+Interactive Experiment Why did I do it? Successes? Control with buttons. Featured on front page of Codepen.io. 
+
+[Launch project][bob]
 
 
 
@@ -216,7 +230,9 @@ Interactive Experiment Why did I do it? Successes? Control with buttons. Feature
 
 ![][hoylu_img]
 
-Summary for Hoylu [View project details >>][hoylu]
+Summary for Hoylu 
+
+[Launch project][hoylu]
 
 
 
@@ -228,7 +244,9 @@ Summary for Hoylu [View project details >>][hoylu]
 
 ![][apple_img]
 
-Quick challenge: Create something interesting with little code. 20 minutes. Got published on the front page of Codepen.io. [View project details >>][apple]
+Quick challenge: Create something interesting with little code. 20 minutes. Got published on the front page of Codepen.io. 
+
+[Launch project][apple]
 
 
 
@@ -240,16 +258,22 @@ Quick challenge: Create something interesting with little code. 20 minutes. Got 
 
 ![][menu_img]
 
-I intend to make more UI elements, but this far my focus has been on storytelling. Tracking data, allows me to learn from... x interactions since feb. [View project details >>][menu]
+I intend to make more UI elements, but this far my focus has been on storytelling. Tracking data, allows me to learn from... x interactions since feb. 
+
+[Launch project][menu]
 
 
 
 
 ---
 
+### Cinematic website intro
 
+![][beta_img]
 
-This is the official website in the making. [Check here](https://nerdmanship.github.io/nerdmanship/) to visit the temporary website that been live during the first period of research and development.
+This website served as Nerdmanship-at-a-glance during my first year of research and development. The intention was to provide a sample of tasty web animation and interactivite and share the most essential information about my project. Since approaching an official launch this loyal servant will rest in the archive.
+
+[Launch project][beta]
 
 ---
 

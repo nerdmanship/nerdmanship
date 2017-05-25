@@ -35,13 +35,13 @@ Make a simple and functional, yet good looking projects page that can live a lon
   * Texts from facebook – DONE
   * Make gif from prototype - DONE
 
-* Update link to beta website
+* Update link to beta website – DONE
 
 * Small projects
   * Write summaries
   * Write titles
 
-* Featured projects
+* Featured projects – DONE
   * Update tech specs in both 'projects' and 'individual' – DONE
   * Write presentations to featured – DONE
   * Sync content – DONE
@@ -57,6 +57,7 @@ Make a simple and functional, yet good looking projects page that can live a lon
     * Licence
     * Table explanations
 
+* Add featured projects template – DONE
 
 * Flesh out the list
 
