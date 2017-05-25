@@ -45,15 +45,14 @@
 
 ![][header]
 
-###### Nerdmanship Projects and Experiments
+> **Nerdmanship Projects** – *All code. Virtually no loading time*
 
-> *All code. No video files. No image files. Virtually no loading time.*
+---
+
+# ⚡️ Top Three Featured Projects
 
 
-### Featured
-
-
-# ⚡️ Firefox Website Intro
+## 1️⃣ Firefox Website Intro
 
 ![][firefox_img]
 
@@ -75,7 +74,7 @@ A personal experiment that was picked up by Firefox and used in the process of d
 
 
 
-# ⚡️ Starwars Animation
+## 2️⃣ Starwars Animation
 
 ![][bb8_img]
 
@@ -96,7 +95,7 @@ The result of a new randomising animation technique I developed. Trended as most
 
 
 
-# ⚡️ Verdict MMA App Promotion
+## 3️⃣ Verdict MMA App Promotion
 
 ![][verdict_img]
 
@@ -126,9 +125,6 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
   * [Appealing Effect At Minimal Effort](#appealing-effect-at-minimal-effort)
   * [My Little Snitch](#my-little-snitch) <- this one tells me secrets
   * [Cinematic Website Intro](#cinematic-website-intro)
-  * *More stuff coming soon*
-
-
 
 ---
 
@@ -271,6 +267,20 @@ This colorful fruit was a speed-challenge I gave my self. How fast could I make 
 This website served as Nerdmanship-at-a-glance during my first year of research and development. The intention was to provide a sample of tasty web animation and interactivite and share the most essential information about my project. Since approaching an official launch this loyal servant will rest in the archive.
 
 [Launch project][beta]
+
+---
+
+
+# Let's be friends!
+
+### Drop me a line at [johan@nerdmanship.com](mailto:johan@nerdmanship.com) or pick your favourite poison below
+
+* Get nerdy animation updates on [the Nerdmanship Facebook Page](http://www.facebook.com/nerdmanship).
+* I share things that impress me on [Twitter](http://www.twitter.com/stromqvist).
+* I'm forced to degrade my projects on [Dribbble](http://www.dribbble.com/stromqvist).
+* All my experiments end up at [Codepen](http://www.codepen.io/nerdmanship).
+* I keep a friends list of emails too. [Sign up here](http://nerdmanship.us13.list-manage.com/subscribe/post?u=bed6727a7b59b995ae23ca252&id=706f47db11).
+
 
 ---
 

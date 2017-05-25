@@ -56,15 +56,16 @@ Share any interesting knowledge?
 
 ---
 
-## Follow Nerdmanship
 
-### My favorite platform is [Twitter](http://www.twitter.com/stromqvist)
+# Let's be friends!
 
-* Curious creators and animation nerds get random updates on [the Nerdmanship Facebook Page](http://www.facebook.com/nerdmanship).
-* I'm more personal on [Twitter](http://www.twitter.com/stromqvist) where I share things that impress me in animation and creative coding.
-* I share most projects on [Dribbble](http://www.dribbble.com/stromqvist) even tho they force me to degrade my projects to static imagery.
-* All my experiments get posted on [Codepen](http://www.codepen.io/nerdmanship). Let's connect there!
-* I send super occational updates to Nerdmanship friends. [Sign up](http://nerdmanship.us13.list-manage.com/subscribe/post?u=bed6727a7b59b995ae23ca252&id=706f47db11) on my friends list to get them!
+### Drop me a line at [johan@nerdmanship.com](mailto:johan@nerdmanship.com) or pick your favourite poison below
+
+* Get nerdy animation updates on [the Nerdmanship Facebook Page](http://www.facebook.com/nerdmanship).
+* I share things that impress me on [Twitter](http://www.twitter.com/stromqvist).
+* I'm forced to degrade my projects on [Dribbble](http://www.dribbble.com/stromqvist).
+* All my experiments end up at [Codepen](http://www.codepen.io/nerdmanship).
+* I keep a friends list of emails too. [Sign up here](http://nerdmanship.us13.list-manage.com/subscribe/post?u=bed6727a7b59b995ae23ca252&id=706f47db11).
 
 ---
 
