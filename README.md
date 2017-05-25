@@ -281,6 +281,7 @@ This website served as Nerdmanship-at-a-glance during my first year of research 
 * All my experiments end up at [Codepen](http://www.codepen.io/nerdmanship).
 * I keep a friends list of emails too. [Sign up here](http://nerdmanship.us13.list-manage.com/subscribe/post?u=bed6727a7b59b995ae23ca252&id=706f47db11).
 
+![][footer]
 
 ---
 
@@ -293,5 +294,3 @@ This website served as Nerdmanship-at-a-glance during my first year of research 
 | **Fps** | Amount of frames rendered each second (max 60). An indicator on how well the code performs when tested on current version of the most common browsers. Most common **desktop** browser in North America is currently: [Chrome](http://gs.statcounter.com/browser-market-share/desktop/north-america/#monthly-201604-201704). Most common **mobile** browser in North America is currently: [Safari](http://gs.statcounter.com/browser-market-share/mobile/north-america/#monthly-201604-201704) |
 | **Responsive** | Animated/interactive content responds and adapts to the screen size of user's device |
 | **All Browser** | Project works on all currently supported versions of Chrome, Firefox, Safari, MS Internet Explorer and MS Edge |
-
-![][footer]
