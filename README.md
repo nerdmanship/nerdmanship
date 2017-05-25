@@ -8,7 +8,6 @@
 
 [//]: # (Images)
 
-[placeholder]: https://carrrs.com/wp-content/uploads/2015/04/placeholder-1000x400.png  "Placeholder"
 [firefox_img]: /assets/images/projects/firefox.png
 [bb8_img]: /assets/images/projects/bb8.png
 [verdict_img]: /assets/images/projects/verdict.png
@@ -22,6 +21,10 @@
 [menu_img]: /assets/images/projects/menu.png
 [apple_img]: /assets/images/projects/apple.png
 [beta_img]: /assets/images/projects/beta.png
+
+[placeholder]: https://carrrs.com/wp-content/uploads/2015/04/placeholder-1000x400.png  "Placeholder"
+[header]: /assets/images/projects/nerdmanship-header.png
+[footer]: /assets/images/projects/nerdmanship-footer.png
 [no]: /assets/images/projects/no.png
 [yes]: /assets/images/projects/yes.png
 
@@ -40,6 +43,7 @@
 [apple]: http://codepen.io/nerdmanship/full/dNRbvQ/
 [beta]: http://nerdmanship.github.io/beta.nerdmanship.com/public_html/
 
+![][header]
 
 ###### Nerdmanship Projects and Experiments
 
@@ -280,3 +284,4 @@ This website served as Nerdmanship-at-a-glance during my first year of research 
 | **Responsive** | Animated/interactive content responds and adapts to the screen size of user's device |
 | **All Browser** | Project works on all currently supported versions of Chrome, Firefox, Safari, MS Internet Explorer and MS Edge |
 
+![][footer]
