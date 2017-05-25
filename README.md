@@ -4,6 +4,8 @@
 [bb8_project]: /pages/bb8/
 [verdict_project]: /pages/verdict/
 
+[wecon_project]: https://nerdmanship.github.io/WeCon/
+
 [//]: # (Images)
 
 [placeholder]: https://carrrs.com/wp-content/uploads/2015/04/placeholder-1000x400.png  "Placeholder"
@@ -113,35 +115,33 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 ### Complete list of projects
 
-* Featured
-  * [firefox][firefox]
-  * [bb8][bb8]
-  * [verdict][verdict]
-* All
-  * [kodama][kodama]
-  * [kaonashi][kaonashi]
-  * [wecon][wecon]
-  * [dmss][dmss]
-  * [kinetic][kinetic]
-  * [bob][bob]
-  * [hoylu][hoylu]
-  * [apple][apple]
-  * [menu][menu]
-  * [beta][beta]
-  * Random Rocky *(Coming soon)*
-  * Particle buttons *(Coming soon)*
-
+* Featured projects (above)
+  * [Firefox Website Intro][#firefox-website-intro]
+  * [Starwars Animation][#starwars-animation]
+  * [Verdict MMA App Promotion][#verdict-mma-app-promotion]
+* All projects (below)
+  * [An Interactive Tribute][#an-interactive-tribute]
+  * [Kaonashi The Curroptor][#kaonashi-the-curroptor]
+  * [Core Value Infused Logo Reveal][#core-value-infused-logo-reveal]
+  * [Logotype And Button Interplay][#logotype-and-button-interplay]
+  * [Paragraphs With Personality][#paragraphs-with-personality]
+  * [The Manifestation Of A Crabby Pun][#the-manifestation-of-a-crabby-pun]
+  * [Buzzword Randomiser][#buzzword-randomiser]
+  * [Appealing Effect At Minimal Effort][#appealing-effect-at-minimal-effort]
+  * [My Little Snitch][#my-little-snitch]
+  * [Cinematic Website Intro][#cinematic-website-intro]
+  * *More stuff coming soon*
 
 
 ---
 
 
 
-### An Interactive Tribute To Hayao Miyazaki
+### An Interactive Tribute
 
 ![][kodama_img]
 
-Interactive Experiment Featured in Codepen Spark and Web Animation Weekly. Why did I do it? Successes? Parallax layers with mouse movement. 
+**This interactive experience** is an homage to the Japanese equivilent of Walt Disney – *Hayao Miyazaki*, and his masterpiece *Mononoke-hime*. Inspired by his style of film-making, it demonstrates how to bring complex artwork, advanced animation and curious interaction to the web in a very resourceful way. The project recieved plenty of blessings around the creative coding community after being published on the frontpage of codepen.io, featured in Codepen Spark and Web Animation Weekly.
 
 [Launch project][kodama]
 
@@ -151,11 +151,11 @@ Interactive Experiment Featured in Codepen Spark and Web Animation Weekly. Why d
 
 
 
-### Kaonashi
+### Kaonashi The Curroptor
 
 ![][kaonashi_img]
 
-Interactive Experiment Why did I do it? Successes? The character's attention follows your mouse around. 
+**This faceless character was brought to life** in a creative mix of subtle randomised animation and user interaction. Designed and built in a single day, it was a personal culmination in efficiency and a new level in my from-graphics-to-code workflow. It was also selected for the frontpage of codepen.io. He offers you gold and follows your mouse around.
 
 [Launch project][kaonashi]
 
@@ -165,11 +165,11 @@ Interactive Experiment Why did I do it? Successes? The character's attention fol
 
 
 
-### Line art animation for We Construction
+### Core Value Infused Logo Reveal
 
 ![][wecon_img]
 
-Summary for We Con 
+**We Construction is a cheeky newcomer** in the Scandinavian construction industry. They do things smarter and more considerate than their competitors, which they wanted me to express in a code-based animation. They got a complete package of motion graphics content that is applicable to everything from websites and videos, to powerpoints and email footers.
 
 [Launch project][wecon]
 
@@ -181,11 +181,11 @@ Summary for We Con
 
 
 
-### Interactive Logo Animation for DMSS Conference
+### Logotype And Button Interplay
 
 ![][dmss_img]
 
-Summary for DMSS 
+**This interactive header is designed** to seamlessly guide the user's attention from the animated logotype to the main call to action button. It's an experimental approach to conversion optimisation, which essentially is what this marketing conference is all about.
 
 [Launch project][dmss]
 
@@ -198,11 +198,11 @@ Summary for DMSS
 
 
 
-### Kinetic type
+### Paragraphs With Personality
 
 ![][kinetic_img]
 
-Interactive Experiment. Why did I do it? Successes? Use keyboard to type. 
+**Kinetic typography is simply moving text** – and a powerful tool for storytelling. When you set text in motion you attach emotion and personality to it, and you can help the user *feel* and *imagine* what she *reads*. This kind of interactive animation can be used in anything from attention grabbing headers to very not-boring forms. It was also selected and featured at the frontpage of codepen.io.
 
 [Launch project][kinetic]
 
@@ -212,11 +212,11 @@ Interactive Experiment. Why did I do it? Successes? Use keyboard to type.
 
 
 
-### Bob the Crab
+### The Manifestation Of A Crabby Pun
 
 ![][bob_img]
 
-Interactive Experiment Why did I do it? Successes? Control with buttons. Featured on front page of Codepen.io. 
+Bob was the very first experiment I made with code and was tragically born from a shitty pun: 'Let me crab your attention'. Coming from a UX and communications background, that was how I felt about the potential of web animation. Attention is a hard earned commodity on the internet, but I knew that I could harness it with the techniques I was going to develop. I woke up the day after I shared the project to find that Chris Coyier himself – the founder of css-tricks and codepen, and a long time hero of mine – had selected Bob for the front page. I felt I was on to something.
 
 [Launch project][bob]
 
@@ -226,11 +226,11 @@ Interactive Experiment Why did I do it? Successes? Control with buttons. Feature
 
 
 
-### Anticipation site for Hoylu
+### Buzzword Randomiser
 
 ![][hoylu_img]
 
-Summary for Hoylu 
+**Hoylu is an innovative tech company** from Hollywood on a mission to "augment your work life". With fresh technology and interactive surfaces they take both remote and local collaboration to a new level. Before officially launching their business they wanted to create some anticipation among their potential clients and competitors. A script like this could be fed any set of words and output new sentences every time, in any visual style.
 
 [Launch project][hoylu]
 
@@ -240,11 +240,11 @@ Summary for Hoylu
 
 
 
-### Apple Logo
+### Appealing Effect At Minimal Effort
 
 ![][apple_img]
 
-Quick challenge: Create something interesting with little code. 20 minutes. Got published on the front page of Codepen.io. 
+This colorful fruit was a speed-challenge I gave my self. How fast could I make something intersting-looking? Create the graphics, setup the dev environment, animate and share it? With the javascript framework I use it turned out to take only 20 minutes and [two lines of javascript][apple-code]. It got some good spread on Twitter and also this project was selected for the frontpage of codepen.io. I guess people simply like things that move, or maybe they're just sentimental Apple fans?
 
 [Launch project][apple]
 
@@ -254,11 +254,11 @@ Quick challenge: Create something interesting with little code. 20 minutes. Got 
 
 
 
-### Website Menu
+### My Little Snitch
 
 ![][menu_img]
 
-I intend to make more UI elements, but this far my focus has been on storytelling. Tracking data, allows me to learn from... x interactions since feb. 
+**This little animated menu is my main informant**. It's been used to navigate my visitors to my other pages in all my experiments since Feb 2017. With built in analytics it lets me know that in less than four months I've had +250 000 views spending 1m50s on average. Those stats make me happy. And they also teach me how they behave and what of my content is the most appealing.
 
 [Launch project][menu]
 
@@ -267,7 +267,7 @@ I intend to make more UI elements, but this far my focus has been on storytellin
 
 ---
 
-### Cinematic website intro
+### Cinematic Website Intro
 
 ![][beta_img]
 

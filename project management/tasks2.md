@@ -37,9 +37,6 @@ Make a simple and functional, yet good looking projects page that can live a lon
 
 * Update link to beta website – DONE
 
-* Small projects
-  * Write summaries
-  * Write titles
 
 * Featured projects – DONE
   * Update tech specs in both 'projects' and 'individual' – DONE
@@ -59,7 +56,11 @@ Make a simple and functional, yet good looking projects page that can live a lon
 
 * Add featured projects template – DONE
 
-* Flesh out the list
+* Small projects – DONE
+  * Write summaries – DONE
+  * Write titles – DONE
+
+* Flesh out the list – DONE
 
 ---
 # STYLE
