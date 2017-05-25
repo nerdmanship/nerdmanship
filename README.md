@@ -111,24 +111,16 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 ---
 
-
-
-### Complete list of projects
-
-* Featured projects (above)
-  * [Firefox Website Intro](#firefox-website-intro)
-  * [Starwars Animation](#starwars-animation)
-  * [Verdict MMA App Promotion](#verdict-mma-app-promotion)
-* All projects (below)
-  * [An Interactive Tribute](#an-interactive-tribute)
-  * [Kaonashi The Curroptor](#kaonashi-the-curroptor)
+### All projects below
+  * [An Interactive Tribute](#an-interactive-tribute) <- this one looks nice
+  * [Kaonashi The Curroptor](#kaonashi-the-curroptor) <- this one has clever code
   * [Core Value Infused Logo Reveal](#core-value-infused-logo-reveal)
   * [Logotype And Button Interplay](#logotype-and-button-interplay)
   * [Paragraphs With Personality](#paragraphs-with-personality)
   * [The Manifestation Of A Crabby Pun](#the-manifestation-of-a-crabby-pun)
   * [Buzzword Randomiser](#buzzword-randomiser)
   * [Appealing Effect At Minimal Effort](#appealing-effect-at-minimal-effort)
-  * [My Little Snitch](#my-little-snitch)
+  * [My Little Snitch](#my-little-snitch) <- this one tells me secrets
   * [Cinematic Website Intro](#cinematic-website-intro)
   * *More stuff coming soon*
 
