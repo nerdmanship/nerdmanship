@@ -47,12 +47,13 @@
 
 > **Nerdmanship Projects** – *All code. Virtually no loading time*
 
----
 
-# ⚡️ Top Three Featured Projects
+# Top Three Featured Projects
 
 
-## 1️⃣ Firefox Website Intro
+# 1️⃣ 
+
+## Firefox Website Intro
 
 ![][firefox_img]
 
@@ -74,7 +75,9 @@ A personal experiment that was picked up by Firefox and used in the process of d
 
 
 
-## 2️⃣ Interactive Starwars Droids
+# 2️⃣ 
+
+## Interactive Starwars Droids
 
 ![][bb8_img]
 
@@ -95,7 +98,9 @@ The result of a new randomising animation technique I developed. Trended as most
 
 
 
-## 3️⃣ App Promotion For Verdict MMA 
+# 3️⃣ 
+
+## App Promotion For Verdict MMA 
 
 ![][verdict_img]
 
