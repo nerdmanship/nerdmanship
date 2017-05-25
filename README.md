@@ -53,9 +53,9 @@
 
 ![][firefox_img]
 
-| *Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers |
-| :-------- | :-----: | :-----: | :-----: | :-----: |  :-----: | :-----: |
-| Animation prototype | 52 kB | 6s | 60 | - | ![][no] | ![][no] |
+| *Category | Total weight | FPS Desktop | FPS Mobile | Responsive | All Browsers |
+| :-------- | :-----: | :-----: | :-----: |  :-----: | :-----: |
+| Animation prototype | 52 kB | 60 | - | ![][no] | ![][no] |
 
 A personal experiment that was picked up by Firefox and used in the process of developing their new browser onboarding experience. The experiment demonstrates how web animation could reinforce the core of Firefox's brand message – 'Freedom' – by allowing the user to soar over the landscape.
 
@@ -75,9 +75,9 @@ A personal experiment that was picked up by Firefox and used in the process of d
 
 ![][bb8_img]
 
-| *Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers |
-| :---------- | :--: | :--: | :--: | :--: |  :--: | :------: |
-| Interactive prototype | 51 kB | 10 s | 60 | - | ![][no] | ![][no] |
+| *Category | Total weight | FPS Desktop | FPS Mobile | Responsive | All Browsers |
+| :---------- | :--: | :--: | :--: |  :--: | :------: |
+| Interactive prototype | 51 kB | 60 | - | ![][no] | ![][no] |
 
 The result of a new randomising animation technique I developed. Trended as most popular project on Codepen.io and was featured in Codepen Spark. Over 20 000 views to date, and +100 retweets on Twitter.
 
@@ -96,9 +96,9 @@ The result of a new randomising animation technique I developed. Trended as most
 
 ![][verdict_img]
 
-| *Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers |
-| :-------- | :-----: | :-----: | :-----: | :-----: |  :-----: | :-----: |
-| App promotion | 108 kB | 33s | 30-60 | 30-40 | ![][yes] | ![][yes] |
+| *Category | Total weight | FPS Desktop | FPS Mobile | Responsive | All Browsers |
+| :-------- | :-----: | :-----: | :-----: |  :-----: | :-----: |
+| App promotion | 108 kB | 30-60 | 30-40 | ![][yes] | ![][yes] |
 
 Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app before and during real sports events. This violent website header shows superstars Nate Diaz and Conor McGregor beat the shit out of each other. It was made to make UFC fans froth in context of the main use case of the app – to score fights in real time.
 
@@ -131,6 +131,7 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
   * [My Little Snitch](#my-little-snitch)
   * [Cinematic Website Intro](#cinematic-website-intro)
   * *More stuff coming soon*
+
 
 
 ---
@@ -283,7 +284,6 @@ This website served as Nerdmanship-at-a-glance during my first year of research 
 | :-------- | :----- |
 | **Category** | Distinguishing subdivision of all projects |
 | **Total weight** | Total file size of minified and compressed project including all dependencies |
-| **Length** | Amount of seconds the experience runs before stopping or looping |
 | **Fps** | Amount of frames rendered each second (max 60). An indicator on how well the code performs when tested on current version of the most common browsers. Most common **desktop** browser in North America is currently: [Chrome](http://gs.statcounter.com/browser-market-share/desktop/north-america/#monthly-201604-201704). Most common **mobile** browser in North America is currently: [Safari](http://gs.statcounter.com/browser-market-share/mobile/north-america/#monthly-201604-201704) |
 | **Responsive** | Animated/interactive content responds and adapts to the screen size of user's device |
 | **All Browser** | Project works on all currently supported versions of Chrome, Firefox, Safari, MS Internet Explorer and MS Edge |

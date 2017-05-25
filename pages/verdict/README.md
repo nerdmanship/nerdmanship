@@ -58,9 +58,9 @@ I learned a lot of valuable lessons and had many reusable insights doing this pr
 
 ## Tech spec*
 
-| Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers |
-| :-------- | :-----: | :-----: | :-----: | :-----: |  :-----: | :-----: |
-| App promotion | 108 kB | 33s | 30-60 | 30-40 | ![][yes] | ![][yes] |
+| Category | Total weight | FPS Desktop | FPS Mobile | Responsive | All Browsers |
+| :-------- | :-----: | :-----: | :-----: |  :-----: | :-----: |
+| App promotion | 108 kB | 30-60 | 30-40 | ![][yes] | ![][yes] |
 
 
 ---
@@ -89,7 +89,6 @@ The code is available under the [MIT license](LICENSE.txt).
 | :-------- | :----- |
 | **Category** | Distinguishing subdivision of all projects |
 | **Total weight** | Total file size of minified and compressed project including all dependencies |
-| **Length** | Amount of seconds the experience runs before stopping or looping |
 | **Fps** | Amount of frames rendered each second (max 60). An indicator on how well the code performs when tested on current version of the most common browsers. Most common **desktop** browser in North America is currently: [Chrome](http://gs.statcounter.com/browser-market-share/desktop/north-america/#monthly-201604-201704). Most common **mobile** browser in North America is currently: [Safari](http://gs.statcounter.com/browser-market-share/mobile/north-america/#monthly-201604-201704) |
 | **Responsive** | Animated/interactive content responds and adapts to the screen size of user's device |
 | **All Browser** | Project works on all currently supported versions of Chrome, Firefox, Safari, MS Internet Explorer and MS Edge |
