@@ -54,12 +54,10 @@
 
 
 
-# Top Three Featured Projects
+# Featured Projects
 
 
-# 1️⃣ 
-
-## Firefox Website Intro
+## 1️⃣ Firefox Website Intro
 
 ![][firefox_img]
 
@@ -74,15 +72,11 @@ A personal experiment that was picked up by Firefox and used in the process of d
 
 ### [Full project][firefox_project]
 
----
-
 
 ![][spacer]
 
 
-# 2️⃣ 
-
-## Interactive Starwars Droids
+## 2️⃣ Interactive Starwars Droids
 
 ![][bb8_img]
 
@@ -97,15 +91,11 @@ The result of a new randomising animation technique I developed. Trended as most
 
 ### [Full project][bb8_project]
 
----
-
 
 ![][spacer]
 
 
-# 3️⃣ 
-
-## App Promotion For Verdict MMA 
+## 3️⃣ App Promotion For Verdict MMA 
 
 ![][verdict_img]
 
@@ -120,10 +110,6 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 ### [Full project][verdict_project]
 
----
-
-
-![][spacer]
 
 
 ![][spacer]
@@ -143,8 +129,6 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
   * [My Little Snitch](#my-little-snitch) <- this one tells me secrets
   * [Cinematic Website Intro](#cinematic-website-intro)
 
----
-
 
 ![][spacer]
 
@@ -156,8 +140,6 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 **This interactive experience** is an homage to the Japanese equivilent of Walt Disney – *Hayao Miyazaki*, and his masterpiece *Mononoke-hime*. Inspired by his style of film-making, it demonstrates how to bring complex artwork, advanced animation and curious interaction to the web in a very resourceful way. The project recieved plenty of blessings around the creative coding community after being published on the frontpage of codepen.io, featured in Codepen Spark and Web Animation Weekly.
 
 [Launch project][kodama]
-
----
 
 
 ![][spacer]
@@ -171,8 +153,6 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 [Launch project][kaonashi]
 
----
-
 
 ![][spacer]
 
@@ -184,8 +164,6 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 **We Construction is a cheeky newcomer** in the Scandinavian construction industry. They do things smarter and more considerate than their competitors, which they wanted me to express in a code-based animation. They got a complete package of motion graphics content that is applicable to everything from websites and videos, to powerpoints and email footers.
 
 [Launch project][wecon]
-
----
 
 
 ![][spacer]
@@ -199,8 +177,6 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 [Launch project][dmss]
 
----
-
 
 ![][spacer]
 
@@ -212,8 +188,6 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 **Kinetic typography is simply moving text** – and a powerful tool for storytelling. When you set text in motion you attach emotion and personality to it, and you can help the user *feel* and *imagine* what she *reads*. This kind of interactive animation can be used in anything from attention grabbing headers to very not-boring forms. It was also selected and featured at the frontpage of codepen.io.
 
 [Launch project][kinetic]
-
----
 
 
 ![][spacer]
@@ -227,8 +201,6 @@ Bob was the very first experiment I made with code and was tragically born from 
 
 [Launch project][bob]
 
----
-
 
 ![][spacer]
 
@@ -240,8 +212,6 @@ Bob was the very first experiment I made with code and was tragically born from 
 **Hoylu is an innovative tech company** from Hollywood on a mission to "augment your work life". With fresh technology and interactive surfaces they take both remote and local collaboration to a new level. Before officially launching their business they wanted to create some anticipation among their potential clients and competitors. A script like this could be fed any set of words and output new sentences every time, in any visual style.
 
 [Launch project][hoylu]
-
----
 
 
 ![][spacer]
@@ -255,8 +225,6 @@ This colorful fruit was a speed-challenge I gave my self. How fast could I make 
 
 [Launch project][apple]
 
----
-
 
 ![][spacer]
 
@@ -269,8 +237,6 @@ This colorful fruit was a speed-challenge I gave my self. How fast could I make 
 
 [Launch project][menu]
 
----
-
 
 ![][spacer]
 
@@ -282,8 +248,6 @@ This colorful fruit was a speed-challenge I gave my self. How fast could I make 
 This website served as Nerdmanship-at-a-glance during my first year of research and development. The intention was to provide a sample of tasty web animation and interactivite and share the most essential information about my project. Since approaching an official launch this loyal servant will rest in the archive.
 
 [Launch project][beta]
-
----
 
 
 ![][spacer]
@@ -300,8 +264,6 @@ This website served as Nerdmanship-at-a-glance during my first year of research 
 * I keep a friends list of emails too. [Sign up here](http://nerdmanship.us13.list-manage.com/subscribe/post?u=bed6727a7b59b995ae23ca252&id=706f47db11).
 
 ![][footer]
-
----
 
 
 ![][spacer]
