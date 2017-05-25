@@ -25,6 +25,17 @@ Make a simple and functional, yet good looking projects page that can live a lon
   * Images – DONE
   * Texts from facebook – DONE
 
+* Add bb8 project – DONE
+  * Tech spec – DONE
+  * Images – DONE
+  * Texts from facebook – DONE
+
+* Add verdict project – DONE
+  * Tech spec – DONE
+  * Images
+  * Texts from facebook – DONE
+  * Make gif from prototype
+
 * Update link to beta website
 
 * Small projects

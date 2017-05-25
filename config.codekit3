@@ -177,11 +177,41 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/images\/projects\/verdict-joints.png": {
+		"ft": 32768,
+		"iS": 33516,
+		"oA": 0,
+		"oAP": "\/dist\/assets\/images\/projects\/verdict-joints.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/images\/projects\/verdict-project.png": {
 		"ft": 32768,
 		"iS": 1604077,
 		"oA": 0,
 		"oAP": "\/dist\/assets\/images\/projects\/verdict-project.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/projects\/verdict-prototype.gif": {
+		"ft": 4194304,
+		"iS": 107550,
+		"oA": 0,
+		"oAP": "\/dist\/assets\/images\/projects\/verdict-prototype.gif",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/assets\/images\/projects\/verdict-spine.png": {
+		"ft": 32768,
+		"iS": 26164,
+		"oA": 0,
+		"oAP": "\/dist\/assets\/images\/projects\/verdict-spine.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,

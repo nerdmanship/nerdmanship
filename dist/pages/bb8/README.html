@@ -52,9 +52,9 @@ Another reason was to explore the process of creating interactive and engaging c
 
 ---
 
-## Tech spec
+## Tech spec*
 
-| *Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers |
+| Category | Total weight | Length | FPS Desktop | FPS Mobile | Responsive | All Browsers |
 | :---------- | :--: | :--: | :--: | :--: |  :--: | :------: |
 | Prototype | 51 kB | 10 s | 60 | - | ![][no] | ![][no] |
 
