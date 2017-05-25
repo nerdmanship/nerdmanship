@@ -113,7 +113,7 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 ### All projects below
   * [An Interactive Tribute](#an-interactive-tribute) <- this one looks nice
-  * [Kaonashi The Curroptor](#kaonashi-the-curroptor) <- this one has clever code
+  * [Kaonashi The Corruptor](#kaonashi-the-corruptor) <- this one has clever code
   * [Core Value Infused Logo Reveal](#core-value-infused-logo-reveal)
   * [Logotype And Button Interplay](#logotype-and-button-interplay)
   * [Paragraphs With Personality](#paragraphs-with-personality)
@@ -144,7 +144,7 @@ Verdict MMA is the Fantasy Football for Ultimate Fighting – fans use the app b
 
 
 
-### Kaonashi The Curroptor
+### Kaonashi The Corruptor
 
 ![][kaonashi_img]
 
