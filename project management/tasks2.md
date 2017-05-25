@@ -14,8 +14,7 @@ Make a simple and functional, yet good looking projects page that can live a lon
 ---
 # RESEARCH
 
-* Get tech specs of featured project
-  * Verdict
+* Get tech specs of featured project – DONE
 
 ---
 # CONTENT
@@ -32,9 +31,9 @@ Make a simple and functional, yet good looking projects page that can live a lon
 
 * Add verdict project – DONE
   * Tech spec – DONE
-  * Images
+  * Images – DONE
   * Texts from facebook – DONE
-  * Make gif from prototype
+  * Make gif from prototype - DONE
 
 * Update link to beta website
 
@@ -43,18 +42,21 @@ Make a simple and functional, yet good looking projects page that can live a lon
   * Write titles
 
 * Featured projects
-  * Update tech specs in both 'projects' and 'individual'
-  * Write presentations to featured
-  * Sync content
+  * Update tech specs in both 'projects' and 'individual' – DONE
+  * Write presentations to featured – DONE
+  * Sync content – DONE
     * Title
     * Meta
     * Picture
     * Project link
     * Summary list
     * Quotes – if any
-    * Tech
     * About
+    * Tech
     * Follow
+    * Licence
+    * Table explanations
+
 
 * Flesh out the list
 
@@ -79,3 +81,5 @@ Make a simple and functional, yet good looking projects page that can live a lon
 * Collect statements
   * Jack Doyle at Greensock
   * Chris Coyier
+
+  * Issue MD caret bug
