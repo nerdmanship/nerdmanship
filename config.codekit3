@@ -301,12 +301,6 @@
 		"oAP": "\/CNAME",
 		"oF": 0
 		},
-	"\/dist": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/dist\/dist",
-		"oF": 0
-		},
 	"\/pages\/bb8\/README.md": {
 		"cS": 0,
 		"eF": 1,
