@@ -177,6 +177,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/images\/projects\/nerdmanship-footer.png": {
+		"ft": 32768,
+		"iS": 1165,
+		"oA": 0,
+		"oAP": "\/dist\/assets\/images\/projects\/nerdmanship-footer.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/projects\/nerdmanship-header.png": {
+		"ft": 32768,
+		"iS": 3069,
+		"oA": 0,
+		"oAP": "\/dist\/assets\/images\/projects\/nerdmanship-header.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/images\/projects\/no.png": {
 		"ft": 32768,
 		"iS": 363,
@@ -185,6 +207,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/projects\/spacer.png": {
+		"ft": 32768,
+		"iS": 1643,
+		"oA": 0,
+		"oAP": "\/dist\/assets\/images\/projects\/spacer.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
