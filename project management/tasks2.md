@@ -65,23 +65,12 @@ Make a simple and functional, yet good looking projects page that can live a lon
 ---
 # STYLE
 
-* Final formatting
-* Header
-* Footer
+* Final formatting – DONE
+* Header – DONE
+* Footer – DONE
 
 
 
 
 
 
-
-
-
-
-
-# Future
-* Collect statements
-  * Jack Doyle at Greensock
-  * Chris Coyier
-
-  * Issue MD caret bug
