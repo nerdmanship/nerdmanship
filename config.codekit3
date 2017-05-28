@@ -4,494 +4,22 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "4F86A920-5275-4B24-A89D-E4159E412D66"
+		"uuidString": "6C678C1B-263A-481D-9A8C-B59DF06F73AC"
 		}
 	],
 "creatorBuild": "25813",
 "files": {
-	"\/.gitignore": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/.gitignore",
+	"\/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/dist\/dist",
 		"oF": 0
 		},
-	"\/assets\/images\/projects\/apple.png": {
-		"ft": 32768,
-		"iS": 7003,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/apple.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/bb8-project.png": {
-		"ft": 32768,
-		"iS": 232018,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/bb8-project.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/bb8.png": {
-		"ft": 32768,
-		"iS": 75696,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/bb8.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/beta.png": {
-		"ft": 32768,
-		"iS": 31080,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/beta.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/bob.png": {
-		"ft": 32768,
-		"iS": 28009,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/bob.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/dmss.png": {
-		"ft": 32768,
-		"iS": 132230,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/dmss.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/firefox-official.gif": {
-		"ft": 4194304,
-		"iS": 1341666,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/firefox-official.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/assets\/images\/projects\/firefox-project.png": {
-		"ft": 32768,
-		"iS": 331542,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/firefox-project.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/firefox-twitter.png": {
-		"ft": 32768,
-		"iS": 315943,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/firefox-twitter.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/firefox.png": {
-		"ft": 32768,
-		"iS": 66845,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/firefox.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/hoylu.png": {
-		"ft": 32768,
-		"iS": 18515,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/hoylu.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/kaonashi.png": {
-		"ft": 32768,
-		"iS": 45490,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/kaonashi.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/kinetic.png": {
-		"ft": 32768,
-		"iS": 13694,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/kinetic.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/kodama.png": {
-		"ft": 32768,
-		"iS": 72124,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/kodama.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/menu.png": {
-		"ft": 32768,
-		"iS": 77537,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/menu.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/nerdmanship-footer.png": {
-		"ft": 32768,
-		"iS": 1165,
-		"oA": 0,
-<<<<<<< HEAD
-		"oAP": "\/dist\/assets\/images\/projects\/nerdmanship-footer.png",
-=======
-		"oAP": "\/assets\/images\/projects\/nerdmanship-footer.png",
->>>>>>> add-analytics
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/nerdmanship-header.png": {
-		"ft": 32768,
-		"iS": 3069,
-		"oA": 0,
-<<<<<<< HEAD
-		"oAP": "\/dist\/assets\/images\/projects\/nerdmanship-header.png",
-=======
-		"oAP": "\/assets\/images\/projects\/nerdmanship-header.png",
->>>>>>> add-analytics
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/no.png": {
-		"ft": 32768,
-		"iS": 363,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/no.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/spacer.png": {
-		"ft": 32768,
-		"iS": 1643,
-		"oA": 0,
-<<<<<<< HEAD
-		"oAP": "\/dist\/assets\/images\/projects\/spacer.png",
-=======
-		"oAP": "\/assets\/images\/projects\/spacer.png",
->>>>>>> add-analytics
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/verdict-joints.png": {
-		"ft": 32768,
-		"iS": 33516,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/verdict-joints.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/verdict-project.png": {
-		"ft": 32768,
-		"iS": 1604077,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/verdict-project.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/verdict-prototype.gif": {
-		"ft": 4194304,
-		"iS": 107550,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/verdict-prototype.gif",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/assets\/images\/projects\/verdict-spine.png": {
-		"ft": 32768,
-		"iS": 26164,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/verdict-spine.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/verdict.png": {
-		"ft": 32768,
-		"iS": 266728,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/verdict.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/wecon.png": {
-		"ft": 32768,
-		"iS": 14046,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/wecon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/images\/projects\/yes.png": {
-		"ft": 32768,
-		"iS": 379,
-		"oA": 0,
-		"oAP": "\/assets\/images\/projects\/yes.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/CNAME": {
+	"\/LICENSE.txt": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/CNAME",
+		"oAP": "\/dist\/LICENSE.txt",
 		"oF": 0
-		},
-	"\/pages\/bb8\/README.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/pages\/bb8\/README.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/pages\/firefox\/README.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/pages\/firefox\/README.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/pages\/template\/README.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/pages\/template\/README.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/pages\/verdict\/README.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/pages\/verdict\/README.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/project management\/browser-support.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/project management\/browser-support.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/project management\/roadmap.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/project management\/roadmap.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/project management\/tasks1.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/project management\/tasks1.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/project management\/tasks2.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/project management\/tasks2.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/project management\/Tech-spec.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/project management\/Tech-spec.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/project management\/value-proposition.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/project management\/value-proposition.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
 		},
 	"\/README.md": {
 		"cS": 0,
@@ -503,13 +31,1286 @@
 		"ft": 4096,
 		"oA": 2,
 		"oAP": "\/README.md",
-		"oF": 0,
-		"oFM": 0,
+		"oF": 2,
+		"oFM": 9,
 		"oS": 0,
 		"pHT": 0,
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/src\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 3959,
+		"oA": 0,
+		"oAP": "\/dist\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/assets\/greensock\/docs.html": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/docs.html",
+		"oF": 1
+		},
+	"\/src\/assets\/greensock\/getting_started.html": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/getting_started.html",
+		"oF": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/docs.html": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/docs.html",
+		"oF": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/getting_started.html": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/getting_started.html",
+		"oF": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/easing\/EasePack.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/easing\/EasePack.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/jquery.gsap.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/jquery.gsap.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/plugins\/AttrPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/plugins\/AttrPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/plugins\/BezierPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/plugins\/BezierPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/plugins\/ColorPropsPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/plugins\/ColorPropsPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/plugins\/CSSPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/plugins\/CSSPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/plugins\/CSSRulePlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/plugins\/CSSRulePlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/plugins\/DirectionalRotationPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/plugins\/DirectionalRotationPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/plugins\/DrawSVGPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/dist\/js\/DrawSVGPlugin.min.js",
+		"oF": 3,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/plugins\/EaselPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/plugins\/EaselPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/plugins\/EndArrayPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/plugins\/EndArrayPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/plugins\/KineticPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/plugins\/KineticPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/plugins\/MorphSVGPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/dist\/js\/MorphSVGPlugin.min.js",
+		"oF": 3,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/plugins\/Physics2DPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/plugins\/Physics2DPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/plugins\/PhysicsPropsPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/plugins\/PhysicsPropsPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/plugins\/RaphaelPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/plugins\/RaphaelPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/plugins\/RoundPropsPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/plugins\/RoundPropsPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/plugins\/ScrambleTextPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/plugins\/ScrambleTextPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/plugins\/ScrollToPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/plugins\/ScrollToPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/plugins\/TextPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/plugins\/TextPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/plugins\/ThrowPropsPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/plugins\/ThrowPropsPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/TimelineLite.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/TimelineLite.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/TimelineMax.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/TimelineMax.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/TweenLite.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/TweenLite.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/TweenMax.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/TweenMax.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/utils\/CSSTransform.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/utils\/CSSTransform.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/utils\/Draggable.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/utils\/Draggable.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/minified\/utils\/SplitText.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/minified\/utils\/SplitText.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/easing\/EasePack.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/easing\/EasePack.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/jquery.gsap.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/jquery.gsap.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/AttrPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/AttrPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/BezierPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/BezierPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/ColorPropsPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/ColorPropsPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/CSSPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/CSSPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/CSSRulePlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/CSSRulePlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/DirectionalRotationPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/DirectionalRotationPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/DrawSVGPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/DrawSVGPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/EaselPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/EaselPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/EndArrayPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/EndArrayPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/KineticPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/KineticPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/MorphSVGPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/MorphSVGPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/Physics2DPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/Physics2DPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/PhysicsPropsPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/PhysicsPropsPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/RaphaelPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/RaphaelPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/RoundPropsPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/RoundPropsPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/ScrambleTextPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/ScrambleTextPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/ScrollToPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/ScrollToPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/TEMPLATE_Plugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/TEMPLATE_Plugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/TextPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/TextPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/ThrowPropsPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/plugins\/ThrowPropsPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/TimelineLite.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/TimelineLite.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/TimelineMax.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/TimelineMax.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/TweenLite.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/TweenLite.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/TweenMax-2.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/TweenMax-2.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/TweenMax.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/TweenMax.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/utils\/Draggable.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/utils\/Draggable.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/outdated\/src\/uncompressed\/utils\/SplitText.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/outdated\/src\/uncompressed\/utils\/SplitText.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/commonjs-flat\/AttrPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/commonjs-flat\/AttrPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/commonjs-flat\/BezierPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/commonjs-flat\/BezierPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/commonjs-flat\/ColorPropsPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/commonjs-flat\/ColorPropsPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/commonjs-flat\/CSSPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/commonjs-flat\/CSSPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/commonjs-flat\/CSSRulePlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/commonjs-flat\/CSSRulePlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/commonjs-flat\/CustomEase.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/commonjs-flat\/CustomEase.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/commonjs-flat\/DirectionalRotationPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/commonjs-flat\/DirectionalRotationPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/commonjs-flat\/Draggable.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/commonjs-flat\/Draggable.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/commonjs-flat\/EaselPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/commonjs-flat\/EaselPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/commonjs-flat\/EasePack.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/commonjs-flat\/EasePack.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/commonjs-flat\/EndArrayPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/commonjs-flat\/EndArrayPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/commonjs-flat\/jquery.gsap.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/commonjs-flat\/jquery.gsap.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/commonjs-flat\/ModifiersPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/commonjs-flat\/ModifiersPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/commonjs-flat\/RaphaelPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/commonjs-flat\/RaphaelPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/commonjs-flat\/RoundPropsPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/commonjs-flat\/RoundPropsPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/commonjs-flat\/ScrollToPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/commonjs-flat\/ScrollToPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/commonjs-flat\/TEMPLATE_Plugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/commonjs-flat\/TEMPLATE_Plugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/commonjs-flat\/TextPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/commonjs-flat\/TextPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/commonjs-flat\/TimelineLite.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/commonjs-flat\/TimelineLite.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/commonjs-flat\/TimelineMax.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/commonjs-flat\/TimelineMax.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/commonjs-flat\/TweenLite.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/commonjs-flat\/TweenLite.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/commonjs-flat\/TweenMax.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/commonjs-flat\/TweenMax.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/minified\/easing\/CustomEase.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/dist\/js\/CustomEase.min.js",
+		"oF": 3,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/minified\/easing\/EasePack.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/minified\/easing\/EasePack.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/minified\/jquery.gsap.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/minified\/jquery.gsap.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/minified\/plugins\/AttrPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/minified\/plugins\/AttrPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/minified\/plugins\/BezierPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/minified\/plugins\/BezierPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/minified\/plugins\/ColorPropsPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/minified\/plugins\/ColorPropsPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/minified\/plugins\/CSSPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/minified\/plugins\/CSSPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/minified\/plugins\/CSSRulePlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/minified\/plugins\/CSSRulePlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/minified\/plugins\/DirectionalRotationPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/minified\/plugins\/DirectionalRotationPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/minified\/plugins\/EaselPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/minified\/plugins\/EaselPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/minified\/plugins\/EndArrayPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/minified\/plugins\/EndArrayPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/minified\/plugins\/ModifiersPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/dist\/js\/ModifiersPlugin.min.js",
+		"oF": 3,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/minified\/plugins\/RaphaelPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/minified\/plugins\/RaphaelPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/minified\/plugins\/RoundPropsPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/minified\/plugins\/RoundPropsPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/minified\/plugins\/ScrollToPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/minified\/plugins\/ScrollToPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/minified\/plugins\/TextPlugin.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/minified\/plugins\/TextPlugin.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/minified\/TimelineLite.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/minified\/TimelineLite.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/minified\/TimelineMax.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/minified\/TimelineMax.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/minified\/TweenLite.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/minified\/TweenLite.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/minified\/TweenMax.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/dist\/js\/TweenMax.min.js",
+		"oF": 3,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/src\/assets\/greensock\/src\/minified\/utils\/Draggable.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/dist\/js\/Draggable.min.js",
+		"oF": 3,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/uncompressed\/easing\/CustomEase.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/uncompressed\/easing\/CustomEase.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/uncompressed\/easing\/EasePack.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/uncompressed\/easing\/EasePack.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/uncompressed\/jquery.gsap.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/uncompressed\/jquery.gsap.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/uncompressed\/plugins\/AttrPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/uncompressed\/plugins\/AttrPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/uncompressed\/plugins\/BezierPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/uncompressed\/plugins\/BezierPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/uncompressed\/plugins\/ColorPropsPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/uncompressed\/plugins\/ColorPropsPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/uncompressed\/plugins\/CSSPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/uncompressed\/plugins\/CSSPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/uncompressed\/plugins\/CSSRulePlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/uncompressed\/plugins\/CSSRulePlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/uncompressed\/plugins\/DirectionalRotationPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/uncompressed\/plugins\/DirectionalRotationPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/uncompressed\/plugins\/EaselPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/uncompressed\/plugins\/EaselPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/uncompressed\/plugins\/EndArrayPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/uncompressed\/plugins\/EndArrayPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/uncompressed\/plugins\/ModifiersPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/uncompressed\/plugins\/ModifiersPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/uncompressed\/plugins\/RaphaelPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/uncompressed\/plugins\/RaphaelPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/uncompressed\/plugins\/RoundPropsPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/uncompressed\/plugins\/RoundPropsPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/uncompressed\/plugins\/ScrollToPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/uncompressed\/plugins\/ScrollToPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/uncompressed\/plugins\/TEMPLATE_Plugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/uncompressed\/plugins\/TEMPLATE_Plugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/uncompressed\/plugins\/TextPlugin.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/uncompressed\/plugins\/TextPlugin.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/uncompressed\/TimelineLite.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/uncompressed\/TimelineLite.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/uncompressed\/TimelineMax.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/uncompressed\/TimelineMax.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/uncompressed\/TweenLite.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/uncompressed\/TweenLite.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/uncompressed\/TweenMax.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/uncompressed\/TweenMax.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/greensock\/src\/uncompressed\/utils\/Draggable.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/greensock\/src\/uncompressed\/utils\/Draggable.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/nerdmanship\/js\/controls.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/nerdmanship\/js\/controls.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/nerdmanship\/js\/particles.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/nerdmanship\/js\/particles.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/nerdmanship\/js\/utility.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/nerdmanship\/js\/utility.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/assets\/nerdmanship\/pug\/all-gsap.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/nerdmanship\/pug\/all-gsap.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/src\/assets\/nerdmanship\/pug\/boiler.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/nerdmanship\/pug\/boiler.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/src\/assets\/nerdmanship\/pug\/mixins\/controls-mixin.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/nerdmanship\/pug\/mixins\/controls-mixin.html",
+		"oF": 1,
+		"oS": 0
+		},
+	"\/src\/assets\/nerdmanship\/pug\/mixins\/mixins.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/nerdmanship\/pug\/mixins\/mixins.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/src\/assets\/nerdmanship\/pug\/mixins\/script-mixin.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/nerdmanship\/pug\/mixins\/script-mixin.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/src\/assets\/nerdmanship\/pug\/mixins\/style-mixin.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/nerdmanship\/pug\/mixins\/style-mixin.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/src\/assets\/nerdmanship\/pug\/placeholder.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/nerdmanship\/pug\/placeholder.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/src\/assets\/nerdmanship\/scss\/_controls.scss": {
+		"aP": 1,
+		"bl": 1,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/nerdmanship\/scss\/_controls.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/src\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/favicon.ico",
+		"oF": 0
+		},
+	"\/src\/js\/index.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "\/dist\/js\/index.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 1
+		},
+	"\/src\/pug\/content.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/dist\/pug\/content.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/src\/pug\/index.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/dist\/index.html",
+		"oF": 3,
+		"oS": 0
+		},
+	"\/src\/scss\/index.scss": {
+		"aP": 1,
+		"bl": 1,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/dist\/css\/index.css",
+		"oF": 2,
+		"oS": 0,
+		"uL": 1
 		}
 	},
 "hooks": [
@@ -517,11 +1318,11 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 517222098,
-	"displayValue": "nerdmanship",
-	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets_magenta",
-	"lastBuiltDate": 517222133
+	"creationDate": 515490881,
+	"displayValue": "template",
+	"displayValueWasSetByUser": 1,
+	"iconImageName": "meme-girlfriend",
+	"lastBuiltDate": 516289407
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -776,7 +1577,7 @@
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
-	"buildFolderActive": 0,
+	"buildFolderActive": 1,
 	"buildFolderName": "dist",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
@@ -2628,7 +3429,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": ""
+	"websiteRelativeRoot": "\/dist"
 	},
 "settingsFileVersion": "3"
 }
