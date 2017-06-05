@@ -50,7 +50,7 @@ I shared it on Twitter and offered Firefox to sue my for copyright infringement.
 
 The prototype I made was experimenting with the main download page – which was 'suboptimal' UX-wise, as I wrote about in [the animation info][firefox_animation] – but Firefox had been wanting to use something similar in their onbaording experience where it made much more sense UX-wise.
 
-The prototype was used as a reference through-out the design process and in March 2017 their new onboarding experience was done. You see it live after downloading and launching Firefox:
+The prototype was used as a reference through-out the design process and in March 2017 their new onboarding experience was done. You see it live after [downloading](https://www.mozilla.org/en-US/firefox/new/?scene=2) and launching Firefox:
 
 ![official-gif][firefox-official]
 
