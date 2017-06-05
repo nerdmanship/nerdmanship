@@ -1,8 +1,8 @@
 [//]: # (Pages)
 
-[firefox_project]: /pages/firefox/
-[bb8_project]: /pages/bb8/
-[verdict_project]: /pages/verdict/
+[firefox_project]: /nerdmanship/pages/firefox/
+[bb8_project]: /nerdmanship/pages/bb8/
+[verdict_project]: /nerdmanship/pages/verdict/
 
 [wecon_project]: https://nerdmanship.github.io/WeCon/
 
