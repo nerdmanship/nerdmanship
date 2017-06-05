@@ -1,9 +1,9 @@
-[verdict-project_img]: /assets/images/projects/verdict-project.png
-[verdict-joints_img]: /assets/images/projects/verdict-joints.png
-[verdict-spine_img]: /assets/images/projects/verdict-spine.png
-[verdict-prototype_gif]: /assets/images/projects/verdict-prototype.gif
-[no]: /assets/images/projects/no.png
-[yes]: /assets/images/projects/yes.png
+[verdict-project_img]: /nerdmanship/assets/images/projects/verdict-project.png
+[verdict-joints_img]: /nerdmanship/assets/images/projects/verdict-joints.png
+[verdict-spine_img]: /nerdmanship/assets/images/projects/verdict-spine.png
+[verdict-prototype_gif]: /nerdmanship/assets/images/projects/verdict-prototype.gif
+[no]: /nerdmanship/assets/images/projects/no.png
+[yes]: /nerdmanship/assets/images/projects/yes.png
 
 [verdict-prototype]: https://nerdmanship.github.io/McGregor_prototype/
 [verdict_animation]: https://nerdmanship.github.io/_verdict-module/dist/
@@ -23,6 +23,22 @@
 * Made to entertain and educate potential app users so they would get excited enough to download the app
 * New animation techniques was developed to make fighting motion appear realistic
 * *Some success stats coming soon*
+
+---
+
+## Testimonial
+
+"From the moment we began talking to Johan, we knew we were in the right hands. Before creating the animation, Johan wanted to put himself in the shoes of a Verdict user to completely understand the experience. He logged on during one event, and found out what Verdict was about. That is what we appreciated about him the most. He wanted to do the perfect job, so he took the initiative to see what the product was all about by using it himself.
+
+Johan set up several Skype meetings with our team during the process. This made the experience very comfortable for us. We always knew where he was and the progress of the animation.
+
+The animation he created for us was using SVG image format, which was a technical requirement for us. We reached out to several animators before him, but the majority did not know how to work with that. Johan always has his eye on the ball, and he created the file that we required.
+
+The animation turned out fantastic. A 30 second animation that informs the viewer what our product is all about. After implementing the animation on our site, the hits on our website increased by 156% the first month.
+
+We recommend Johan to anyone looking for an animation."
+
+> **Mandeep Singh Olma** – Founder & Product Owner, Verdict MMA
 
 ---
 
