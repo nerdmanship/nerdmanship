@@ -1,8 +1,8 @@
-[bb8-project_img]: /assets/images/projects/bb8-project.png
+[bb8-project_img]: /nerdmanship/assets/images/projects/bb8-project.png
 [bb8_animation]: https://nerdmanship.github.io/bb8/dist/
 [bb8-info]: http://codepen.io/nerdmanship/details/ZLoyPG/
-[no]: /assets/images/projects/no.png
-[yes]: /assets/images/projects/yes.png
+[no]: /nerdmanship/assets/images/projects/no.png
+[yes]: /nerdmanship/assets/images/projects/yes.png
 
 # A Randomised Droid That Never Behaves The Same Twice
 
