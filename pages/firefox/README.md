@@ -1,10 +1,10 @@
-[firefox-project_img]: /assets/images/projects/firefox-project.png
+[firefox-project_img]: /nerdmanship/assets/images/projects/firefox-project.png
 [firefox_animation]: http://s.codepen.io/nerdmanship/debug/rrrajP
-[no]: /assets/images/projects/no.png
-[yes]: /assets/images/projects/yes.png
+[no]: /nerdmanship/assets/images/projects/no.png
+[yes]: /nerdmanship/assets/images/projects/yes.png
 
-[firefox-twitter]: /assets/images/projects/firefox-twitter.png
-[firefox-official]: /assets/images/projects/firefox-official.gif
+[firefox-twitter]: /nerdmanship/assets/images/projects/firefox-twitter.png
+[firefox-official]: /nerdmanship/assets/images/projects/firefox-official.gif
 
 # A Prototype That Made It All The Way To Firefox
 
