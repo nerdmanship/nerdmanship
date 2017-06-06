@@ -1,6 +1,7 @@
 [bb8_animation]: https://nerdmanship.github.io/bb8/dist/
 [bb8-info]: http://codepen.io/nerdmanship/details/ZLoyPG/
 
+[bb8-project_img]: /nerdmanship/assets/images/projects/bb8-project.png
 [no]: /nerdmanship/assets/images/projects/no.png
 [yes]: /nerdmanship/assets/images/projects/yes.png
 
