@@ -9,7 +9,7 @@
 
 (Feb 2017)
 
-
+![][bb8-project_img]
 
 #### [Launch demo][bb8_animation]
 
