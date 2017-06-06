@@ -1,6 +1,8 @@
 [bb8_animation]: https://nerdmanship.github.io/bb8/dist/
 [bb8-info]: http://codepen.io/nerdmanship/details/ZLoyPG/
 
+[no]: /nerdmanship/assets/images/projects/no.png
+[yes]: /nerdmanship/assets/images/projects/yes.png
 
 # A Randomised Droid That Never Behaves The Same Twice
 
@@ -54,7 +56,7 @@ Another reason was to explore the process of creating interactive and engaging c
 
 | Category | Total weight | FPS Desktop | FPS Mobile | Responsive | All Browsers |
 | :---------- | :--: | :--: | :--: |  :--: | :------: |
-| Prototype | 51 kB | 60 | - | - | - |
+| Prototype | 51 kB | 60 | - | ![][no] | ![][no] |
 
 
 ---
